@@ -64,10 +64,9 @@ def main():
     bst = xgb.train(param, dtrain, num_round, watchlist)
 
 def test():
-    data = np.random.rand(5,10)
-    test = np.random.rand(5,10)
-    label = np.random.randint(2, size=5)
-    dtrain = xgb.DMatrix(data, label=label)
+    data = np.random.rand(5,10) # 5 entities, each contains 10 features
+    label = np.random.randint(2, size=5) # binary target
+    dtrain = xgb.DMatrix( data, label=label)
     dtest = xgb.DMatrix(test)
     param = {'max_depth':2, 'eta':1, 'silent':1, 'objective':'binary:logistic' }
     evallist  = [(dtest,'eval'), (dtrain,'train')]
