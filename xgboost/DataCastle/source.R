@@ -17,7 +17,7 @@ temp.test=data.frame(rep(0,nrow(test)))
 for(f in fn.cat){
 levels=unique(train[,f])
 col.train=data.frame(factor(train[,f],levels=levels))
-col.test=data.frame(factor(train[,f],levels=levels))
+col.test=data.frame(factor(test[,f],levels=levels))
 colnames(col.train)=f
 colnames(col.test)=f
 temp.train=cbind(temp.train,model.matrix(as.formula(paste0('~',f,'-1')),data=col.train))
@@ -55,5 +55,4 @@ model=xgb.train(booster='gbtree',
 # predict probabilities
 pred=1-predict(model,dtest)
 
-# 现在可以提交结果了，下面的问题就是调参数，欢迎大家来rnorm.com讨论机器学习问题！
 write.csv(data.frame('uid'=test.new[,1],'score'=pred),file='2015-12-22.csv',row.names=F)
