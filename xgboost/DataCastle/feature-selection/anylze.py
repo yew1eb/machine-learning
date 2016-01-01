@@ -28,3 +28,13 @@ print('feature__numeric')
 feature_score_numeric = feature_score.ix[numeric]
 feature_score_numeric = feature_score_numeric.sort_values(by='fscore', ascending=False)
 feature_score_numeric.to_csv('./feature_score_numeric.csv')
+
+
+f1 = open('./drop_list.txt', 'r')
+f2 = open('./drop_feature.txt', 'w+')
+for line in f1:
+    row = line.strip().split(',')
+    f2.write(row[0]+'\n')
+
+f1.close()
+f2.close()
