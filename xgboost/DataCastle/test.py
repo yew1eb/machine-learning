@@ -43,6 +43,5 @@ def main():
     result = pd.DataFrame(test_uid)
     result['score'] = pd.Series(pred)
     result.to_csv(str(time.time())+'.csv', index=False)
-
 if __name__ == '__main__':
     main()
