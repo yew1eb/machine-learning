@@ -1,0 +1,7 @@
+X1 = total population (in thousands)
+X2 = % change in population over past several years
+X3 = % of children (under 18) in population
+X4 = % free school lunch participation
+X5 = % change in household income over past several years
+X6 = crime rate (per 1000 population)
+X7 = % change in crime rate over past 

@@ -1,0 +1,7 @@
+Three days ago I wrote about Codecademy — a slick, fun way to teach yourself how to program. The app has done an excellent job minimizing the frustration often associated with writing your first lines of code, and it sports a good-looking and intuitive interface. Another plus: the initial signup flow doesn’t show up til you’ve completed your first few lessons, so you’re writing code within a few seconds of landing at Codecademy.com.
+
+I’m not the only one who liked it: cofounder Zach Sims tells us that in the three days since the application launched, it has drawn 200,000 unique users. That’s users who have actually interacted with the app — and not people who hit the webpage and bounced away a second later. Perhaps even more impressive: users have completed a total number of 2.1 million exercises.
+
+Sims also says that the company is actually a part of the latest Y Combinator batch (something they hadn’t previously disclosed). Given that the team only started working on the project around two weeks ago, it sounds like they changed their idea late in the program (they’re not the first to see success with a last-minute switch — Greplin founder Daniel Gross came up with that company a day before Demo Day, and later landed $4 million from Sequoia).
+
+Sims says that growth has remained strong, largely driven not by press, but by the badges users are sharing to Twitter and Facebook (you are awarded badges as you complete lessons).

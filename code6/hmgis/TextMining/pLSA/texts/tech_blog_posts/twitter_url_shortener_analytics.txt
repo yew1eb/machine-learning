@@ -1,0 +1,41 @@
+The big news in the social media expert camp from last week was the notification that all links that are posted on Twitter, both on the website and using a third-party app, will now automatically be converted to use Twitter’s official t.co URL shortener. You can read the Twitter help post and the developer guide to learn more about t.co and how it works. Part of the conversation around the t.co rollout reminds me of some of the discussion when Digg launched the Diggbar.
+
+Short tl:dr version: Just because a t.co url appears in your referral log, it does not mean that all the traffic to that url has come from Twitter.
+
+Sean at the analytics service Clicky posted about how the change to use t.co will make it appear that Twitter has zero influence because the referral logs will show t.co instead of twitter.com going forward. When I initially read the post, I thought there was something wrong but couldn’t put my finger on it at the time. Yesterday Zee at the Next Web (note: they are a Twitter default user) created a post titled, “Twitter Just Got the Respect it Deserves”. He continues along the same lines as Clicky and has several key points:
+
+Twitter is now influential in terms of traffic from an “eyes of the media” standpoint
+Facebook and Stumbleupon better watch out because now Twitter will appear really big as a social media traffic driver
+Brands and businesses will now take note of how influential Twitter is
+You can search to find out which tweet was the influential one because you can search on a specific t.co url
+Unfortunately it looks like there are issues with both the Clicky post (and the very wrong change they made to their service) and Zee’s statements.
+
+T.co and how it appears in the referral log
+
+There are lots of times where a t.co URL gets copied OUTSIDE of Twitter. For example, yesterday Mashable reported about Gaddafi and the changes in Libya. When that story gets posted into the Mashable Twitter stream, it now takes on a t.co URL. But followers of the Mashable Twitter stream may copy the URL (which copies the t.co URL not the original URL) and place it into Facebook, Google+ or any other social network.
+
+It is important to note that Twitter does appear to be changing the URL when a user copies a t.co url and posts it on Twitter – this will help with tracking back to a user assuming that the URL is never copied outside of Twitter. BUT, in my testing, if you retweet using the new retweet option, the URL stays the same – this will cause the same issue I discuss below.
+
+When the URL is clicked, it seems to appear on most analytics tools that the traffic is coming via t.co and not from the source network (i.e. Facebook, etc.). If we use the theory that Zee posted, this will make t.co and Twitter itself appear more influential than it is because to his team, it now looks like Twitter sent all the traffic when it was another network. Additionally this would make the Twitter user who originally posted the link appear to have driven traffic that might have come from other sources.
+
+And it’s not just an issue for social network postings – if I copy a t.co URL from another user and send it via email, why should that appear as influence from Twitter?
+
+Additionally, if you use the search technique that Zee suggests, it may make a Twitter user appear more influential than they are because when the link is clicked 500 times on Facebook, now it will look like that user sent the traffic to your site when in fact it was shared by a popular user on Facebook.
+
+Clicky’s URL change and why it needs to be reversed
+
+I like Clicky and their team – I’ve used their service since the early days and they are one of the few services I will recommend when someone asks about analytics tools (note: there is an ad on the right bar but none of the links in this post carry any referral links). In their blog post, they note, “We just updated Clicky to convert t.co referrers into “twitter.com” automatically. Knowing the specific t.co link someone came from has no value, but knowing someone came from Twitter does.”
+
+Example of user copying t.co URL into Google+:
+
+Zee and several other Clicky customers note in the comments that this change is a huge mistake – that it is important to be able to see the t.co referral to direct posts. I agree with the commenters here that changing any t.co referral to twitter.com is a huge mistake and one that needs to be reversed asap.
+
+Oddly, in my Clicky testing today, it appears that clicking a t.co url from Facebook shows up as a referral from Facebook and clicking a t.co url from Google+ shows up as “plus.google.com/search”.
+
+But when I copy the t.co URL and paste it into a Skype chat or into an email or Gtalk chat, the referral shows up as Twitter.com. These referrals should either show up as direct or as a t.co/xxxxxx referral.
+
+Just because you see t.co in your referral log, don’t assume that all the traffic came from Twitter – it may have come from any number of social services and/or traditional sources (e.g. email, direct sharing, etc.). It looks like those of us who study analytics will need to sharpen our pencils as we try to figure out exactly where our traffic originates from and the path it took to get to us. And it looks like Twitter has some work to do on how and when they change URLs when a t.co URL is shared on their service.
+
+
+
+Read more: http://www.centernetworks.com/twitters-url-shortener-analytics#ixzz1VobywK73
