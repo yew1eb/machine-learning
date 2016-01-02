@@ -1,5 +1,6 @@
 import xgboost as xgb
 import pandas as pd
+import numpy as np
 import time
 
 def get_data():
@@ -45,3 +46,9 @@ def main():
     result.to_csv(str(time.time())+'.csv', index=False)
 if __name__ == '__main__':
     main()
+
+    arr = np.array([1,2,3,4])
+    arr.sum()
+    np.loadtxt()
+    np.savetxt()
+    np.tile()
