@@ -1,3 +1,5 @@
+![scikit-learn-algorithm-cheat-sheet](scikit-learn-algorithm-cheat-sheet.png)
+
 [tornadomeet资料目录]
 (http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)
 [常见面试之机器学习算法思想简单梳理]
