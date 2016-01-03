@@ -12,7 +12,11 @@ from sklearn.cross_validation import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from sklearn.metrics import precision_recall_curve, roc_curve, auc
-
+'''
+预测学生大学申请通过的概率
+数据集为学生的两次考试成绩以及是否通过大学申请(数据集格式：[score1,score2,result])，
+我们用逻辑回归进行分类，以后给出一个样本，输出成功通过大学申请的概率。
+'''
 # 导入数据集（数据来自Coursea机器学习第二周的作业ex2）
 file_name = 'ex2_data.csv'
 data = pd.read_csv(file_name, header=None, names=['score1', 'score2', 'result'])

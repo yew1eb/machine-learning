@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-@Filename: logistic_regression.py
+@Filename: logistic_ression.py
 @Author: yew1eb
 @Date: 2015/12/20 0020
 """

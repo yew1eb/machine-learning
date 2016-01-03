@@ -20,5 +20,5 @@
 + [机器学习基石](https://www.coursera.org/course/ntumlone)
 + google & github
 
-## 欢迎讨论交流讨论，共同学习
+## 欢迎讨论交流，共同学习
 + yew1eb@gmail.com
