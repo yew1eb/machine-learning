@@ -21,7 +21,7 @@ def main():
     theta = np.zeros([dim, 1])
     alpha, max_iter = 0.01, 300
     theta = linear_regression.gradient_descent(theta, X, y, alpha, max_iter)
-    print theta
+    print(theta)
 
     # plot sample data and predicted line
     plt.subplot(2, 1, 1)

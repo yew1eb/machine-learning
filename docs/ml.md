@@ -1,17 +1,20 @@
-![scikit-learn-algorithm-cheat-sheet](images/scikit-learn-algorithm-cheat-sheet.png)
+![scikit-learn-algorithm-cheat-sheet](./images/scikit-learn-algorithm-cheat-sheet.png)  
 
 [tornadomeet资料目录]
-(http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)
+(http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
 [常见面试之机器学习算法思想简单梳理]
-(http://www.cnblogs.com/tornadomeet/p/3395593.html)
+(http://www.cnblogs.com/tornadomeet/p/3395593.html)  
 
-http://blog.csdn.net/suipingsp/article/category/2749113
-
+http://blog.csdn.net/suipingsp/article/category/2749113  
+[mastering-machine-learning-scikit-learn](https://muxuezi.github.io/posts/0-perface.html)  
 [机器学习算法系列——博客中相关机器学习算法的目录]
-(http://blog.csdn.net/google19890102/article/details/39781573)
+(http://blog.csdn.net/google19890102/article/details/39781573)  
+[机器学习资料大汇总](http://www.kuqin.com/shuoit/20150923/348242.html)  
+[机器学习常见算法分类汇总](http://blog.jobbole.com/77620/)  
+[机器学习算法基础概念学习总结](http://blog.jobbole.com/74716/)  
+[10 种机器学习算法的要点（附 Python 和 R 代码）](http://blog.jobbole.com/92021/)  
 
-[机器学习常见算法分类汇总](http://blog.jobbole.com/77620/)
-[机器学习算法基础概念学习总结](http://blog.jobbole.com/74716/)
+[R语言学习笔记 ](http://blog.csdn.net/jack237/article/details/8210598)
 机器学习中的数学(5)-强大的矩阵奇异值分解(SVD)及其应用 
 机器学习中的数学(4)-线性判别分析（LDA）, 主成分分析(PCA) 
 机器学习中的数学(3)-模型组合(Model Combining)之Boosting与Gradient Boosting 
@@ -39,3 +42,7 @@ http://diyitui.com/content-1411104161.16932007.html
  
 [特征工程的方方面面,Discover Feature Engineering, How to Engineer Features and How to Get Good at It]
 (http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+[8 Proven Ways for improving the “Accuracy” of a Machine Learning Model]
+(http://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)
+[干货：结合Scikit-learn介绍几种常用的特征选择方法](http://dataunion.org/14072.html)
+
