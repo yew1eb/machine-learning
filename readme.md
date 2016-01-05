@@ -9,7 +9,17 @@
     scipy (0.16.0)  
     xgboost (0.4)  
 
-## 内容目录
+## 目录
+0. Linear Regression [[dir]](/Linear-Regression)
+1. Perceptron [[dir]](/perceptron)
+2. KNN [[dir]](/KNN)
+3. Naive Bayes [[dir]](/Naive-Bayes)
+4. Decision Tree [[dir]](/Decision-Tree)
+5. Logisitc Regression [[dir]](/Logisitc-Regression)
+6. SVM [[dir]](/SVM)
+7. Adaboost [[dir]](/Ababoost)
+8. CF [[dir]](/CF)
+9. K Means [[dir]](/K-Means)
 
 ## 学习资料
 + [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
