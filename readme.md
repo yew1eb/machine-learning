@@ -2,16 +2,19 @@
 常用机器学习算法的实现代码（Python），还包括一些具体的小Demo测试和其他python机器学习库（eg.sklearn...）的实践。
 
 ## 目录
-0. Linear Regression [[dir]](/Linear-Regression)
-1. Perceptron [[dir]](/perceptron)
-2. KNN [[dir]](/KNN)
-3. Naive Bayes [[dir]](/Naive-Bayes)
-4. Decision Tree [[dir]](/Decision-Tree)
-5. Logisitc Regression [[dir]](/Logisitc-Regression)
-6. SVM [[dir]](/SVM)
-7. Adaboost [[dir]](/Ababoost)
-8. CF [[dir]](/CF)
-9. K Means [[dir]](/K-Means)
+0. Linear Regression [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)
+1. Perceptron [[dir]](https://github.com/yew1eb/machine-learning/tree/master/perceptron)
+2. KNN [[dir]](https://github.com/yew1eb/machine-learning/tree/master/KNN)
+3. Naive Bayes [[dir]](https://github.com/yew1eb/machine-learning/tree/master/Naive-bayes)
+4. Decision Tree [[dir]](https://github.com/yew1eb/machine-learning/tree/master/decision-tree)
+5. Logisitc Regression [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)
+6. SVM [[dir]](https://github.com/yew1eb/machine-learning/tree/master/SVM)
+7. Adaboost [[dir]](https://github.com/yew1eb/machine-learning/tree/master/Adaboost)
+8. CF [[dir]](https://github.com/yew1eb/machine-learning/tree/master/CF)
+9. K Means [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)
+
+## scikit-learn algorithm cheat sheet  
+![scikit-learn algorithm cheat sheet](/images/scikit-learn-algorithm-cheat-sheet.png)  
 
 ## 学习资料
 + [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)

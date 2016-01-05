@@ -4,7 +4,7 @@
 __author__ = "zengkui111@gmail.com"
 __version__ = "$Revision: 1.0 $"
 __date__ = "$Mon 10 Dec 2012 11:04:16 PM CST $"
-__fileName__ = "adaboost.py"
+__fileName__ = "adaboost_.py"
 __license__ = "Python"
 
 import os
