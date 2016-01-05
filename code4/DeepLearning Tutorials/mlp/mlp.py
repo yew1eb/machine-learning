@@ -112,7 +112,7 @@ class HiddenLayer(object):
 class MLP(object):
     """Multi-Layer Perceptron Class
 
-    A multilayer perceptron is a feedforward artificial neural network model
+    A multilayer Perceptron is a feedforward artificial neural network model
     that has one layer or more of hidden units and nonlinear activations.
     Intermediate layers usually have as activation function tanh or the
     sigmoid function (defined here by a ``HiddenLayer`` class)  while the
@@ -121,7 +121,7 @@ class MLP(object):
     """
 
     def __init__(self, rng, input, n_in, n_hidden, n_out):
-        """Initialize the parameters for the multilayer perceptron
+        """Initialize the parameters for the multilayer Perceptron
 
         :type rng: numpy.random.RandomState
         :param rng: a random number generator used to initialize weights
@@ -196,7 +196,7 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=10,
              dataset='mnist.pkl.gz', batch_size=20, n_hidden=500):
     """
     Demonstrate stochastic gradient descent optimization for a multilayer
-    perceptron
+    Perceptron
 
     This is demonstrated on MNIST.
 

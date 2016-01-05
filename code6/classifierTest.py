@@ -5,7 +5,7 @@
 # 涵盖：
 # 分类包：KNN、DecisionTree、Bayesian、Logistic、SVM、AdaBoostTest
 # 回归包：线性回归、多元线性回归
-# 聚类包：KMeans
+# 聚类包：K-Means
 # 文本挖掘：SVD、LSI、pLSA、LDA
 # 需要安装的第三方包：numpy、scipy、nltk、scikit、gensim
 #
@@ -33,14 +33,14 @@ class ClassifierTest:
 		## 最简单的KNN测试，判断一个点的分类情况
 		knn.knnTest()
 		## 点的可视化
-		knn.show2DPoint('data/knn/datingTestSet2.txt')
-		knn.show3DPoint('data/knn/datingTestSet2.txt')
+		knn.show2DPoint('data/knn1/datingTestSet2.txt')
+		knn.show3DPoint('data/knn1/datingTestSet2.txt')
 		## 从txt文件中获得数据进行分类
 		## 分类前会进行归一化处理
-		knn.knnTest2('data/knn/datingTestSet2.txt')
+		knn.knnTest2('data/knn1/datingTestSet2.txt')
 		print '-----------------------'
 		## 使用scikit learn包中的KNN函数进行分类
-		knn.knnTestScikit('data/knn/datingTestSet2.txt')
+		knn.knnTestScikit('data/knn1/datingTestSet2.txt')
 
 	## 决策树分类
 	def dtTest(self):

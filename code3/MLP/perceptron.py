@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    @Description : perceptron by python
+    @Description : Perceptron by python
     @Author: Liu_Longpo
     @Time: Sun Dec 20 12:57:00 2015
 """

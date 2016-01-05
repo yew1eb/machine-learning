@@ -41,8 +41,8 @@ http://diyitui.com/content-1411104161.16932007.html
 
  
 [特征工程的方方面面,Discover Feature Engineering, How to Engineer Features and How to Get Good at It]
-(http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+(http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
 [8 Proven Ways for improving the “Accuracy” of a Machine Learning Model]
-(http://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)
-[干货：结合Scikit-learn介绍几种常用的特征选择方法](http://dataunion.org/14072.html)
+(http://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)  
+[干货：结合Scikit-learn介绍几种常用的特征选择方法](http://dataunion.org/14072.html)  
 

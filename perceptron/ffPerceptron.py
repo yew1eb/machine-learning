@@ -3,7 +3,7 @@ import numpy as np
 
 class Perceptron(object):
     '''
-    simple feed forward perceptron
+    simple feed forward Perceptron
     no bias yet, will add later
     '''
     def __init__(self, alpha, iterations):
@@ -23,12 +23,12 @@ class Perceptron(object):
 
     def response(self, X):
         '''
-        perceptron response
+        Perceptron response
         :param X: input vector
-        :return: perceptron out
+        :return: Perceptron out
         '''
         y = self.sigmoid(np.dot(X, self.w))
-        # in this super simple example perceptron will return 1 for positive guess and -1 for neg
+        # in this super simple example Perceptron will return 1 for positive guess and -1 for neg
         if y >= 0.5:
             return 1
         else:
@@ -45,7 +45,7 @@ class Perceptron(object):
 
     def train(self, X, y):
         '''
-        trains perceptron on vector data by looping each row and updating the weight vector
+        trains Perceptron on vector data by looping each row and updating the weight vector
         :param X: input data
         :param y: correct y value
         :return: updated parameters

@@ -4,7 +4,7 @@
 __author__ = "zengkui111@gmail.com"
 __version__ = "$Revision: 1.0 $"
 __date__ = "$Mon 05 Nov 2012 04:51:41 PM CST $"
-__fileName__ = "naive_bayes.py"
+__fileName__ = "Naive-Bayes.py"
 __copyright__ = "Copyright (c) 2012 zengkui"
 __license__ = "Python"
 

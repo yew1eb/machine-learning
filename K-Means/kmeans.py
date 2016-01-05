@@ -4,7 +4,7 @@
 @author: wepon, http://2hwp.com
 Reference:
             Book: <<Machine Learning in Action>>
-            Software: sklearn.cluster.KMeans
+            Software: sklearn.cluster.K-Means
 
 '''
 import numpy as np

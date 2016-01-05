@@ -4,7 +4,7 @@
 __author__ = "zengkui111@gmail.com"
 __version__ = "$Revision: 1.0 $"
 __date__ = "$Mon 05 Nov 2012 04:51:41 PM CST $"
-__fileName__ = "knn.py"
+__fileName__ = "knn1.py"
 __copyright__ = "Copyright (c) 2012 domob"
 __license__ = "Python"
 
