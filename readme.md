@@ -1,4 +1,4 @@
-## Machine Learning
+﻿## Machine Learning
 常用机器学习算法的实现代码（Python），还包括一些具体的小Demo测试和其他python机器学习库（eg.sklearn...）的实践。
 
 ## 目录
@@ -14,7 +14,7 @@
 9. K Means [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)
 
 ## scikit-learn algorithm cheat sheet  
-![scikit-learn algorithm cheat sheet](/images/scikit-learn-algorithm-cheat-sheet.png)  
+![scikit-learn algorithm cheat sheet](https://github.com/yew1eb/machine-learning/tree/master/images/scikit-learn-algorithm-cheat-sheet.png)  
 
 ## 学习资料
 + [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
