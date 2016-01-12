@@ -3,7 +3,7 @@
 在探究线性回归模型之前了解一下线性回归模型的学习步骤：
 ![vlcsnap-2014-09-23-23h30m27s24](http://dataaspirant.files.wordpress.com/2014/09/vlcsnap-2014-09-23-23h30m27s241.png?w=1000)
 ![vlcsnap-2014-09-24-20h44m07s18](http://dataaspirant.files.wordpress.com/2014/09/vlcsnap-2014-09-24-20h44m07s18.png?w=1000)
-
+[Coursera机器学习课程笔记(2) Linear Regression](http://blog.csdn.net/yew1eb/article/details/48213355)  
 
 线性回归：
 线性回归(Linear Regression)：
