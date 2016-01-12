@@ -3,7 +3,7 @@
 # author : chiangbt@gmail.com
 # function : 整个包的测试起点
 # 涵盖：
-# 分类包：KNN、DecisionTree、Bayesian、Logistic、SVM、AdaBoostTest
+# 分类包：KNN、DecisionTree、Bayesian、Logistic、SVM_R、AdaBoostTest
 # 回归包：线性回归、多元线性回归
 # 聚类包：K-Means
 # 文本挖掘：SVD、LSI、pLSA、LDA

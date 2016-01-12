@@ -14,7 +14,7 @@ import random
 
 
 def svc(traindata,trainlabel,testdata,testlabel):
-    print("Start training SVM...")
+    print("Start training SVM_R...")
     svcClf = SVC(C=1.0,kernel="rbf",cache_size=3000)
     svcClf.fit(traindata,trainlabel)
     

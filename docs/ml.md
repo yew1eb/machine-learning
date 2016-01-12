@@ -28,6 +28,7 @@
 网易公开课地址：<http://open.163.com/special/opencourse/daishu.html>  
 麻省理工公开课：线性代数作者&讲课者：麻省理工的一个非常有趣幽默，人格魅力爆棚&
 解析集聚洞察力直指根本，把国内大部分线性代数教材轰的渣也不剩的老教授Gilbert Strang。
+
 * Harvard CS 109 Data Science的课程  
 <http://cs109.github.io/2015/>
 
