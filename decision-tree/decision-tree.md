@@ -1,7 +1,10 @@
+[机器学习中的算法(1)-决策树模型组合之随机森林与GBDT](http://www.cnblogs.com/LeftNotEasy/archive/2011/03/07/random-forest-and-gbdt.html)  
 [决策树 | 码农场](http://www.hankcs.com/ml/decision-tree.html)  
 [机器学习实战笔记3(决策树与随机森林)](http://blog.csdn.net/lu597203933/article/details/38024239)  
 [维基百科-决策树学习](https://zh.wikipedia.org/wiki/%E5%86%B3%E7%AD%96%E6%A0%91%E5%AD%A6%E4%B9%A0)  
 [算法杂货铺——分类算法之决策树(Decision tree)](http://www.cnblogs.com/leoo2sk/archive/2010/09/19/decision-tree.html)
+[决策树 - 随机森林与GBDT](http://www.cnblogs.com/LeftNotEasy/archive/2011/03/07/random-forest-and-gbdt.html)  
+
 决策树的类型有很多，有CART、ID3和C4.5等，其中CART是基于基尼不纯度(Gini)的，这里不做详解，而ID3和C4.5都是基于信息熵的，它们两个得到的结果都是一样的,本次定义主要针对ID3算法。
 
 ### 决策树的构造
