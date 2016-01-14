@@ -56,3 +56,4 @@
 * [SVM 的简要推导过程](http://dataunion.org/12001.html)  
 * [支持向量机 - 码农场](http://www.hankcs.com/ml/support-vector-machine.html)  
 * [简单易学的机器学习算法——线性可分支持向量机](http://blog.csdn.net/google19890102/article/details/35258921)  
+* [SVM KERNEL 台大机器学习技法笔记](http://www.jianshu.com/collection/f9aea26abb87)  

@@ -34,6 +34,7 @@
 
 # 2、机器学习
 ### 2.1 总结性资料 
+* [机器学习与模式识别 | 简书](http://www.jianshu.com/collection/1395428608b4)  
 * [8步从Python白板到专家，从基础到深度学习](http://dataunion.org/15057.html)  
 * [机器学习经典算法详解及Python实现 | Adan](http://blog.csdn.net/suipingsp/article/category/2749113)   
 * [机器学习算法系列 | null的专栏](http://blog.csdn.net/google19890102/article/details/39781573)  
@@ -67,18 +68,24 @@
   (http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
 * [8 Proven Ways for improving the “Accuracy” of a Machine Learning Model]
 (http://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)  
+* [8个经过证实的方法：提高机器学习模型的准确率](http://www.jianshu.com/p/2a7e201d28c2)  
 * [Feature Engineering: How to transform variables and create new ones?]
 (http://www.analyticsvidhya.com/blog/2015/03/feature-engineering-variable-transformation-creation/)   
 * [干货：结合Scikit-learn介绍几种常用的特征选择方法](http://dataunion.org/14072.html)  
 * [用于机器学习特征工程的哈希](http://www.diku.dk/summer-school-2014/course-material/john-langford/hashing_copenhage_2014.pdf)
-  
-  
-# 4、技术博客&网站
-[算法组](http://suanfazu.com/)  
-[火光摇曳](http://www.flickering.cn/)  
+* [【特征工程】特征选择与特征学习](http://www.jianshu.com/p/ab697790090f)  
+* [特征工程](http://www.jianshu.com/p/b2cc338ce9e5)  
+* [机器学习中的数据清洗与特征处理综述](http://tech.meituan.com/machinelearning-data-feature-process.html)  
+
+# 4、混合模型
+* [混合模型 | 简书](http://www.jianshu.com/collection/990b826731ef)  
+
+# 5、技术博客&网站
+* [算法组](http://suanfazu.com/)  
+* [火光摇曳](http://www.flickering.cn/)  
 
 
-# 5、其他
+# 6、其他
 * [常见面试之机器学习算法思想简单梳理](http://www.cnblogs.com/tornadomeet/p/3395593.html)
 * [互联网公司机器学习职位面试考察点](https://www.zhihu.com/question/25565713/answer/31981961)
 * [码农翻墙去美帝——数学和机器学习准备](http://blog.sina.com.cn/s/blog_687bf5050102vawn.html)
