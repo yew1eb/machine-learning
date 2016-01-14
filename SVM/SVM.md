@@ -17,6 +17,13 @@
 那么③就变成了![...](http://mmbiz.qpic.cn/mmbiz/gPtPSmYD369JsxlJDEsvAicHcEAhoicafXHh8u6qIdNWGliaPbE5hxoBdPp3oZt99oG85XomdjHvPRzUYrUvtglibA/640)，求![...](http://mmbiz.qpic.cn/mmbiz/gPtPSmYD369JsxlJDEsvAicHcEAhoicafXgpyX4HzFic6zcrVLXbnkzmBh7khyXRDkZcpGGh7HBBj73J72OQHcPzQ/640)的最大值相当于求![...](http://mmbiz.qpic.cn/mmbiz/gPtPSmYD369JsxlJDEsvAicHcEAhoicafX5RkJrL4eeBf5ONSIpR9adWfoSAodicdicuFyqmeeniamzy3MgLGjvFsibg/640)的最小值，那么最终问题进一步等价转化为了一个凸二次规划（convex quadratic programming）问题：  
 ![...](http://mmbiz.qpic.cn/mmbiz/gPtPSmYD369JsxlJDEsvAicHcEAhoicafXjLCZGxJLs5Ftic90FEo3tcbPtqdbeaicY4DMNGvBKKGEuVLUw9nexW8Q/640)
 
+在约束最优化问题中，常常利用拉格朗日对偶性（Lagrange duality)将原始问题转换为对偶问题，通过解对偶问题而得到原始问题的解。
+### 拉格朗日对偶性
+
+[拉格朗日对偶性 - 码农场](http://www.hankcs.com/ml/lagrange-duality.html)  
+《凸优化》相应章节  
+*************
+
 # 参考资料  
 ## 《分类战车SVM》系列 |  数说工作室
 * 第一话：开题话  <http://t.cn/RAl1Qou>  
@@ -36,11 +43,16 @@
 * [Kernel](http://blog.pluskid.org/?p=685) —— 介绍核方法，并由此将支持向量机推广到非线性的情况。
 * [Outliers](http://blog.pluskid.org/?p=692) —— 介绍支持向量机使用松弛变量处理 outliers 方法。
 * [Numerical Optimization](http://blog.pluskid.org/?p=696) —— 简要介绍求解求解 SVM 的数值优化算法。
+
 ### 番外篇：
 * [Duality](http://blog.pluskid.org/?p=702) —— 关于 dual 问题推导的一些补充理论。
 * [Kernel II](http://blog.pluskid.org/?p=723) —— 核方法的一些理论补充，关于 Reproducing Kernel Hilbert Space 和 Representer Theorem 的简介。
 * Regression —— 关于如何使用 SVM 来做 Regression 的简介。
 
+*****************
+
 * [机器学习中的算法(2)-支持向量机(SVM)基础](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/basic-of-svm.html)  
 
 * [SVM 的简要推导过程](http://dataunion.org/12001.html)  
+* [支持向量机 - 码农场](http://www.hankcs.com/ml/support-vector-machine.html)  
+* [简单易学的机器学习算法——线性可分支持向量机](http://blog.csdn.net/google19890102/article/details/35258921)  
