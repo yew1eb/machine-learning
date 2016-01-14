@@ -82,14 +82,14 @@ class ClassifierTest:
 	def svmTest(self):
 		svm = SVMTest()
 		## 线性SVM
-		# svm.testLinear()
-		# svm.testMultiLinear()
+		# dataset2svm.testLinear()
+		# dataset2svm.testMultiLinear()
 		# ## RBF核函数
-		# svm.testRbf(('rbf', 1.5))
+		# dataset2svm.testRbf(('rbf', 1.5))
 		svm.testDigits(('rbf', 50))
 
 	# ## SciKit中的SVM方法
-	# svm.testSciKitSVM()
+	# dataset2svm.testSciKitSVM()
 
 	## Boost类型分类，它将一个简单的弱分类器单根决策树构成了一个强分类器
 	def adaBoostTest(self):
