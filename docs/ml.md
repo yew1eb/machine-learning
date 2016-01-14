@@ -77,8 +77,14 @@
 * [特征工程](http://www.jianshu.com/p/b2cc338ce9e5)  
 * [机器学习中的数据清洗与特征处理综述](http://tech.meituan.com/machinelearning-data-feature-process.html)  
 
-# 4、混合模型
-* [混合模型 | 简书](http://www.jianshu.com/collection/990b826731ef)  
+# 4、集成学习(ensemble learning)算法
+## Bagging
+   * 随机森林（Random Forest）
+
+## Boosting
+   * AdaBoost, GBDT
+
+## [混合模型 | 简书](http://www.jianshu.com/collection/990b826731ef)  
 
 # 5、技术博客&网站
 * [算法组](http://suanfazu.com/)  
