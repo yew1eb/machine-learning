@@ -1,0 +1,1 @@
+[简单易学的机器学习算法——SVD奇异值分解](http://blog.csdn.net/google19890102/article/details/27109235)  
