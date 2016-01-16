@@ -32,6 +32,10 @@
 * Harvard CS 109 Data Science的课程  
 <http://cs109.github.io/2015/>
 
+* Stanford CS229 Machine Learning
+<http://cs229.stanford.edu/>
+
+
 # 2、机器学习
 ### 2.1 总结性资料 
 * [机器学习与模式识别 | 简书](http://www.jianshu.com/collection/1395428608b4)  
@@ -48,14 +52,21 @@
 * [机器学习常见算法分类汇总](http://blog.jobbole.com/77620/)  
 * [机器学习算法基础概念学习总结](http://blog.jobbole.com/74716/)  
 * [机器学习算法基础知识](http://www.36dsj.com/archives/8911)  
-
+* [数据挖掘18大算法实现以及其他相关经典DM算法](https://github.com/linyiqun/DataMiningAlgorithm)
 
 ### 2.2 其他杂项
+* [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas]
+(http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [R语言学习笔记 ](http://blog.csdn.net/jack237/article/details/8210598)
 * [10 种机器学习算法的要点（附 Python 和 R 代码）](http://blog.jobbole.com/92021/)  
 * [网上又一位牛人的Machine Learning实验笔记]
 (http://blog.csdn.net/denghp83/article/details/8996662#0-tsina-1-56037-397232819ff9a47a7b7e80a40613cfe1)
 * [Bin的专栏  Machine Learning](http://www.cnblogs.com/xbinworld/tag/Machine%20Learning/)
+
+### 2.3 数据降维
+PCA
+SVD
+
 
 # 3、特征工程 
 * 《Selecting good features》特征工程系列文章  
@@ -90,8 +101,12 @@
 * [算法组](http://suanfazu.com/)  
 * [火光摇曳](http://www.flickering.cn/)  
 
+# 6、数据挖掘比赛
+* [kaggle](https://www.kaggle.com/)
+* [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
+* [Data Castle](http://pkbigdata.com/)
 
-# 6、其他
+# 7、其他
 * [常见面试之机器学习算法思想简单梳理](http://www.cnblogs.com/tornadomeet/p/3395593.html)
 * [互联网公司机器学习职位面试考察点](https://www.zhihu.com/question/25565713/answer/31981961)
 * [码农翻墙去美帝——数学和机器学习准备](http://blog.sina.com.cn/s/blog_687bf5050102vawn.html)
