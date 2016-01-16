@@ -63,54 +63,53 @@
 (http://blog.csdn.net/denghp83/article/details/8996662#0-tsina-1-56037-397232819ff9a47a7b7e80a40613cfe1)
 * [Bin的专栏  Machine Learning](http://www.cnblogs.com/xbinworld/tag/Machine%20Learning/)
 
-### 2.3 数据降维
-PCA
-SVD
 
 
-# 3、特征工程 
+### 2.3 特征工程 
+* [干货：结合Scikit-learn介绍几种常用的特征选择方法](http://blog.csdn.net/keepreder/article/details/47278785)  
+
 * 《Selecting good features》特征工程系列文章  
     1. [Part1.单变量选取](http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/)  
     2. [Part2.线性模型和正则化](http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/)   
     3. [Part3.随机森林](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/)    
     4. [Part4.稳定性选择法、递归特征排除法(RFE)及综合比较](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)     
+
 * [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/)  
 * [特征工程的方方面面,Discover Feature Engineering, How to Engineer Features and How to Get Good at It]
   (http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
-* [8 Proven Ways for improving the “Accuracy” of a Machine Learning Model]
-(http://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)  
-* [8个经过证实的方法：提高机器学习模型的准确率](http://www.jianshu.com/p/2a7e201d28c2)  
+* 8 Proven Ways for improving the “Accuracy” of a Machine Learning Model
+[原文](http://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/) | [中译](http://www.jianshu.com/p/2a7e201d28c2)  
 * [Feature Engineering: How to transform variables and create new ones?]
 (http://www.analyticsvidhya.com/blog/2015/03/feature-engineering-variable-transformation-creation/)   
-* [干货：结合Scikit-learn介绍几种常用的特征选择方法](http://dataunion.org/14072.html)  
 * [用于机器学习特征工程的哈希](http://www.diku.dk/summer-school-2014/course-material/john-langford/hashing_copenhage_2014.pdf)
 * [【特征工程】特征选择与特征学习](http://www.jianshu.com/p/ab697790090f)  
 * [特征工程](http://www.jianshu.com/p/b2cc338ce9e5)  
-* [机器学习中的数据清洗与特征处理综述](http://tech.meituan.com/machinelearning-data-feature-process.html)  
+* [机器学习中的数据清洗与特征处理综述 | 美团点评技术团队](http://tech.meituan.com/machinelearning-data-feature-process.html)  
 
-# 4、集成学习(ensemble learning)算法
+
+### 2.4 集成学习(ensemble learning)算法
 [【机器学习基础】混合和装袋](http://www.jianshu.com/p/037e1bad9fa8)  
-## Bagging
+#### 2.4.1 Bagging
 基于数据随机重抽样的分类器构建方法
 
    * 随机森林（Random Forest）[【机器学习基础】随机森林算法](http://www.jianshu.com/p/667c9ea6cf96)
 
-## Boosting
+#### 2.4.2 Boosting
 
    * 自适应提升树 AdaBoost  
      [【机器学习基础】自适应提升](http://www.jianshu.com/p/2d5db988662a)   
      [【机器学习基础】梯度提升决策树](http://www.jianshu.com/p/819a21e1e8ef)  
 
-# 5、技术博客&网站
+# 3、技术博客&网站
 * [算法组](http://suanfazu.com/)  
 * [火光摇曳](http://www.flickering.cn/)  
 
-# 6、数据挖掘比赛
+# 4、数据挖掘比赛
 * [kaggle](https://www.kaggle.com/)
 * [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
 * [Data Castle](http://pkbigdata.com/)
 
-# 7、其他
+# 5、其他
 * [常见面试之机器学习算法思想简单梳理](http://www.cnblogs.com/tornadomeet/p/3395593.html)
 * [互联网公司机器学习职位面试考察点](https://www.zhihu.com/question/25565713/answer/31981961)
 * [码农翻墙去美帝——数学和机器学习准备](http://blog.sina.com.cn/s/blog_687bf5050102vawn.html)
