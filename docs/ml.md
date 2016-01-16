@@ -89,13 +89,17 @@ SVD
 * [机器学习中的数据清洗与特征处理综述](http://tech.meituan.com/machinelearning-data-feature-process.html)  
 
 # 4、集成学习(ensemble learning)算法
+[【机器学习基础】混合和装袋](http://www.jianshu.com/p/037e1bad9fa8)  
 ## Bagging
-   * 随机森林（Random Forest）
+基于数据随机重抽样的分类器构建方法
+
+   * 随机森林（Random Forest）[【机器学习基础】随机森林算法](http://www.jianshu.com/p/667c9ea6cf96)
 
 ## Boosting
-   * AdaBoost, GBDT
 
-## [混合模型 | 简书](http://www.jianshu.com/collection/990b826731ef)  
+   * 自适应提升树 AdaBoost  
+     [【机器学习基础】自适应提升](http://www.jianshu.com/p/2d5db988662a)   
+     [【机器学习基础】梯度提升决策树](http://www.jianshu.com/p/819a21e1e8ef)  
 
 # 5、技术博客&网站
 * [算法组](http://suanfazu.com/)  
