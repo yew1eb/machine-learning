@@ -1,7 +1,7 @@
 ﻿## Machine Learning
 常用机器学习算法的实现代码（Python），还包括一些具体的小Demo测试和其他python机器学习库（eg.sklearn...）的实践。
 
-## 目录
+## 1、目录
 0. Linear Regression [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)
 1. Perceptron [[dir]](https://github.com/yew1eb/machine-learning/tree/master/perceptron)
 2. KNN [[dir]](https://github.com/yew1eb/machine-learning/tree/master/KNN)
@@ -13,20 +13,20 @@
 8. CF [[dir]](https://github.com/yew1eb/machine-learning/tree/master/CF)
 9. K Means [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)
 
-## scikit-learn algorithm cheat sheet  
-![scikit-learn algorithm cheat sheet](https://github.com/yew1eb/machine-learning/blob/master/images/scikit-learn-algorithm-cheat-sheet.png?raw=true)  
+## 2、机器学习资料整理
+见目录`/docs`目录下的[ml.md](https://github.com/yew1eb/machine-learning/blob/master/docs/ml.md)文件。
 
-## 学习资料
-+ [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
-+ [《机器学习实战》](http://book.douban.com/subject/24703171/)
-+ [《集体智慧编程》](http://book.douban.com/subject/3288908/)
-+ [《统计学习方法》](http://book.douban.com/subject/10590856/)
-+ [ coursera-ML](https://www.coursera.org/learn/machine-learning)
-+ [ 机器学习基石](https://www.coursera.org/course/ntumlone)
-+ google & github
+## 3、学习资料
+* [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
+* [《机器学习实战》](http://book.douban.com/subject/24703171/)
+* [《集体智慧编程》](http://book.douban.com/subject/3288908/)
+* [《统计学习方法》](http://book.douban.com/subject/10590856/)
+* [ coursera-ML](https://www.coursera.org/learn/machine-learning)
+* [ 机器学习基石](https://www.coursera.org/course/ntumlone)
+* google & github
 
-## 实践环境
-+ Python 3.5.1 :: Anaconda 2.4.1 (64-bit) `在win下使用Anaconda集成包可以省去许多不必要的麻烦,亲身经历-_-||`   
+## 4、实践环境
+* Python 3.5.1 :: Anaconda 2.4.1 (64-bit) `在win下使用Anaconda集成包可以省去许多不必要的麻烦,亲身经历-_-||`   
 
-## 欢迎讨论交流，共同学习
-+ yew1eb@gmail.com
+## 5、欢迎讨论交流，共同学习
+* yew1eb@gmail.com

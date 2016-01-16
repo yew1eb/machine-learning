@@ -1,10 +1,10 @@
 #remove all previous data
 rm(list=ls())
-#This is a SVM test with small data set (iris dataset) 
+#This is a SVM_R test with small data set (iris dataset)
 #training time is less than a second.
 
-#load SVM
-source("SVM.R")
+#load SVM_R
+source("SVM_R.R")
 #load data & function
 data(iris)
 
@@ -46,7 +46,7 @@ train.var = attr(train.X, "scaled:scale");
 #apply normalized data to test data
 test.X = scale(test.X, center=train.mu, scale=train.var);
 
-#run SVM
+#run SVM_R
 svm.model<-SVM(train.X, train.Y, 1,500)
 
 #train error

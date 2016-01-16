@@ -82,7 +82,7 @@ class SVMTest:
 	## 线性分类器
 	def testLinear(self):
 		## 加载数据
-		dataArr, labelArr = self.loadDataSet('data/svm/testSet.txt')
+		dataArr, labelArr = self.loadDataSet('data/dataset2svm/testSet.txt')
 		svm = SVMLib()
 		## 训练一个线性分类器
 		ws, b = svm.fit(dataArr, labelArr, 0.6, 0.001, 40)
@@ -97,7 +97,7 @@ class SVMTest:
 	## 多属性线性分类器
 	def testMultiLinear(self):
 		## 加载数据
-		dataArr, labelArr = self.loadMultiDataSet('data/svm/horseColicTest.txt')
+		dataArr, labelArr = self.loadMultiDataSet('data/dataset2svm/horseColicTest.txt')
 
 		svm = SVMLib()
 		## 训练一个线性分类器
@@ -114,7 +114,7 @@ class SVMTest:
 
 	## rbf核函数分类器
 	def testRbf(self, kTup=('rbf', 1.5)):
-		dataArr, labelArr = self.loadDataSet('data/svm/testSetRBF.txt')
+		dataArr, labelArr = self.loadDataSet('data/dataset2svm/testSetRBF.txt')
 
 		svm = SVMLib()
 		datMat = mat(dataArr);
@@ -130,7 +130,7 @@ class SVMTest:
 			if sign(predict) != sign(labelArr[i]): errorCount += 1
 		print "培训集错误率: %f" % (float(errorCount) / m)
 		#
-		dataArr, labelArr = self.loadDataSet('data/svm/testSetRBF2.txt')
+		dataArr, labelArr = self.loadDataSet('data/dataset2svm/testSetRBF2.txt')
 		errorCount = 0
 		datMat = mat(dataArr);
 		m, n = shape(datMat)
@@ -141,7 +141,7 @@ class SVMTest:
 
 	## rbf核函数分类器
 	def testDigits(self, kTup=('rbf', 10)):
-		dataArr, labelArr = self.loadImages('data/svm/trainingDigits')
+		dataArr, labelArr = self.loadImages('data/dataset2svm/trainingDigits')
 
 		svm = SVMLib()
 		RBF = svm.fit_RBF(dataArr, labelArr, 200, 0.0001, 10000, kTup)
@@ -155,7 +155,7 @@ class SVMTest:
 			if sign(predict) != sign(labelArr[i]): errorCount += 1
 		print "the training error rate is: %f" % (float(errorCount) / m)
 
-		dataArr, labelArr = self.loadImages('data/svm/testDigits')
+		dataArr, labelArr = self.loadImages('data/dataset2svm/testDigits')
 		errorCount = 0
 		datMat = mat(dataArr);
 		m, n = shape(datMat)
@@ -166,7 +166,7 @@ class SVMTest:
 
 	def testSciKitSVM(self):
 		## 加载数据
-		dataArr, labelArr = self.loadMultiDataSet2('data/svm/testSet.txt')
+		dataArr, labelArr = self.loadMultiDataSet2('data/dataset2svm/testSet.txt')
 		X = dataArr  # we only take the first two features. We could
 		# avoid this ugly slicing by using a two-dim dataset
 		Y = labelArr
@@ -174,9 +174,9 @@ class SVMTest:
 		Y = np.asarray(Y)
 		h = .02  # step size in the mesh
 
-		# we create an instance of SVM and fit out data. We do not scale our
+		# we create an instance of SVM_R and fit out data. We do not scale our
 		# data since we want to plot the support vectors
-		C = 1.0  # SVM regularization parameter
+		C = 1.0  # SVM_R regularization parameter
 		svc = svm.SVC(kernel='linear', C=C).fit(X, Y)
 		rbf_svc = svm.SVC(kernel='rbf', gamma=0.7, C=C).fit(X, Y)
 		poly_svc = svm.SVC(kernel='poly', degree=3, C=C).fit(X, Y)

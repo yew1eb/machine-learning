@@ -249,7 +249,7 @@ if __name__ == '__main__':
     plot_hyperplane(X_1, Y_1, SMO, rbf_kernel, 234)
     plot_hyperplane(X_2, Y_2, SMO, rbf_kernel, 235)
     plot_hyperplane(X_3, Y_3, SMO, rbf_kernel, 236)
-    # plt.savefig('svm.png') 
+    # plt.savefig('dataset2svm.png')
     plt.show()
 
     # set rbf_kernel.gamma = 2.0

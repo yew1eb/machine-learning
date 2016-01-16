@@ -23,7 +23,7 @@ SVM<-function(x, y, C, max.iter=3000, tolerance=1e-3){
   #}
   
   model.attr<-list(); #build class
-  class(model.attr) <- "SVM" #set class name
+  class(model.attr) <- "SVM_R" #set class name
   # set attribute
   model.attr$x<-x
   model.attr$y<-y
@@ -175,7 +175,7 @@ SVM<-function(x, y, C, max.iter=3000, tolerance=1e-3){
     
     #force break
     if(iter > max.iter){
-      cat("Warning: SVM not converge but reach max iterations!","\n")
+      cat("Warning: SVM_R not converge but reach max iterations!","\n")
       break
     }
     
@@ -188,7 +188,7 @@ SVM<-function(x, y, C, max.iter=3000, tolerance=1e-3){
   end.time<-proc.time()
   running.time<-end.time - start.time
   cat("\n")
-  cat("SVM training finished. Elapsed time=", running.time["elapsed"], " secs")
+  cat("SVM_R training finished. Elapsed time=", running.time["elapsed"], " secs")
   
   return(model.attr)
 }

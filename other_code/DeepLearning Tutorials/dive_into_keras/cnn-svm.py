@@ -14,14 +14,14 @@ import random
 
 
 def svc(traindata,trainlabel,testdata,testlabel):
-    print("Start training SVM...")
+    print("Start training SVM_R...")
     svcClf = SVC(C=1.0,kernel="rbf",cache_size=3000)
     svcClf.fit(traindata,trainlabel)
     
     pred_testlabel = svcClf.predict(testdata)
     num = len(pred_testlabel)
     accuracy = len([1 for i in range(num) if testlabel[i]==pred_testlabel[i]])/float(num)
-    print("cnn-svm Accuracy:",accuracy)
+    print("cnn-dataset2svm Accuracy:",accuracy)
 
 def rf(traindata,trainlabel,testdata,testlabel):
     print("Start training Random Forest...")
@@ -53,5 +53,5 @@ if __name__ == "__main__":
     #define theano funtion to get output of FC layer
     get_feature = theano.function([origin_model.layers[0].input],origin_model.layers[11].get_output(train=False),allow_input_downcast=False)
     feature = get_feature(data)
-    #train svm using FC-layer feature
+    #train dataset2svm using FC-layer feature
     svc(feature[0:30000],label[0:30000],feature[30000:],label[30000:])

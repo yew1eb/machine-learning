@@ -70,11 +70,9 @@ model = xgb.train(params, dtrain, num_boost_round=5, evals=watchlist)
 model.save_model('./xgb.model')
 
 # predict test set (from the best iteration)
-test_y = model.predict(dtest, ntree_limit=model.best_ntree_limit)
-test_result = pd.DataFrame(columns=['uid', 'score'])
-test_result.uid = test_uid
-test_result.score = test_y 
-test_result.to_csv('xgb_'+str(time.time())+'.csv', index=None, encoding='utf-8')  # remember to edit xgb.csv , add
+scores = model.predict(dtest, ntree_limit=model.best_ntree_limit)
+result = pd.DataFrame({"uid":test_uid, "score":scores}, columns=['uid','score'])
+result.to_csv(str(time.time())+'.csv', index=False)
 
 features = model.get_fscore()
 features = sorted(features.items(), key=lambda d:d[1])
