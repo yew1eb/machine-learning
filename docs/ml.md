@@ -87,6 +87,8 @@ SVD
 * [【特征工程】特征选择与特征学习](http://www.jianshu.com/p/ab697790090f)  
 * [特征工程](http://www.jianshu.com/p/b2cc338ce9e5)  
 * [机器学习中的数据清洗与特征处理综述](http://tech.meituan.com/machinelearning-data-feature-process.html)  
+* [A Comprehensive guide to Data Exploration](http://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+
 
 # 4、集成学习(ensemble learning)算法
 [【机器学习基础】混合和装袋](http://www.jianshu.com/p/037e1bad9fa8)  
