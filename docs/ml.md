@@ -38,6 +38,7 @@
 
 # 2、机器学习
 ### 2.1 总结性资料 
+* [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros)
 * [机器学习与模式识别 | 简书](http://www.jianshu.com/collection/1395428608b4)  
 * [8步从Python白板到专家，从基础到深度学习](http://dataunion.org/15057.html)  
 * [机器学习经典算法详解及Python实现 | Adan](http://blog.csdn.net/suipingsp/article/category/2749113)   
