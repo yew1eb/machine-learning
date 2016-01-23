@@ -14,7 +14,7 @@ http://diyitui.com/content-1411104161.16932007.html
 [逻辑回归 - super](http://blog.csdn.net/zc02051126/article/details/8655010)
 [Softmax算法：逻辑回归的扩展 - super](http://blog.csdn.net/zc02051126/article/details/9866347)
 [逻辑回归](http://blog.csdn.net/pakko/article/details/37878837)
-
+你应该掌握的七种回归技术  http://www.csdn.net/article/2015-08-19/2825492
 
 [【机器学习笔记1】Logistic回归总结 - 洞庭之子的专栏](http://blog.csdn.net/dongtingzhizi/article/details/15962797)
 
