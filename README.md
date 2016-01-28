@@ -16,8 +16,13 @@
 ## 2、机器学习资料整理
 见目录`/docs`目录下的[ml.md](https://github.com/yew1eb/machine-learning/blob/master/docs/ml.md)文件。
 
-## 3、学习资料
+## 3、深度学习
+[Google's Free Depp Learning Course](https://www.udacity.com/course/viewer#!/c-ud730)Google的免费深度学习MOOC课程
+
+## 4、学习资料
 * [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
+* [Microsoft: DAT208x Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016)
+* [Microsoft: DAT204x Introduction to R](https://courses.edx.org/courses/course-v1:Microsoft+DAT204x+1T2016/)  
 * [《机器学习实战》](http://book.douban.com/subject/24703171/)
 * [《集体智慧编程》](http://book.douban.com/subject/3288908/)
 * [《统计学习方法》](http://book.douban.com/subject/10590856/)
@@ -25,8 +30,8 @@
 * [ 机器学习基石](https://www.coursera.org/course/ntumlone)
 * google & github
 
-## 4、实践环境
+## 5、实践环境
 * Python 3.5.1 :: Anaconda 2.4.1 (64-bit) `在win下使用Anaconda集成包可以省去许多不必要的麻烦,亲身经历-_-||`   
 
-## 5、欢迎讨论交流，共同学习
+## 6、欢迎讨论交流，共同学习
 * yew1eb@gmail.com
