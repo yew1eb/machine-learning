@@ -13,11 +13,12 @@
 8. CF [[dir]](https://github.com/yew1eb/machine-learning/tree/master/CF)
 9. K Means [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)
 
-## 2、机器学习资料整理
-见目录`/docs`目录下的[ml.md](https://github.com/yew1eb/machine-learning/blob/master/docs/ml.md)文件。
+## 2、学习资料整理
+repository:<https://github.com/yew1eb/free-resources>
 
 ## 3、深度学习
-[Google's Free Depp Learning Course](https://www.udacity.com/course/viewer#!/c-ud730)Google的免费深度学习MOOC课程
+[Google's Free Depp Learning Course](https://www.udacity.com/course/viewer#!/c-ud730)Google的免费深度学习MOOC课程   
+My-Notes: <https://github.com/yew1eb/google-deep-learning-course>
 
 ## 4、学习资料
 * [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
