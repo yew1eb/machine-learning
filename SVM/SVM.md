@@ -58,3 +58,4 @@
 * [简单易学的机器学习算法——线性可分支持向量机](http://blog.csdn.net/google19890102/article/details/35258921)  
 * [SVM KERNEL 台大机器学习技法笔记](http://www.jianshu.com/collection/f9aea26abb87)
 * [SMO序列最小最优化算法](http://liuhongjiang.github.io/tech/blog/2012/12/28/svm-smo/)  
+* [支持向量机实例讲解](http://www.17bigdata.com/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E5%AE%9E%E4%BE%8B%E8%AE%B2%E8%A7%A3.html)

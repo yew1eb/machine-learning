@@ -1,4 +1,5 @@
 推荐《统计学习方法》第2章学习笔记：[K近邻法 | 码农场](http://www.hankcs.com/ml/k-nearest-neighbor-method.html)
+[机器学习中的相似性度量](http://www.17bigdata.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E7%9B%B8%E4%BC%BC%E6%80%A7%E5%BA%A6%E9%87%8F.html)  
 本文主要记录《机器学习实战》第2章K-近邻算法中两个应用实例的学习过程。
 ## k-近邻算法概述
 简单地说，k-近邻算法采用测量不同特征值之间的距离方法进行分类。
