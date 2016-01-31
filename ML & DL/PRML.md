@@ -1,0 +1,1 @@
+[《模式识别和机器学习》资源](http://www.cvrobot.net/pattern_recognition_and_machine_learning_notes_resources/)
