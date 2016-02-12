@@ -2,16 +2,19 @@
 常用机器学习算法的实现代码（Python），还包括一些具体的小Demo测试和其他python机器学习库（eg.sklearn...）的实践。
 
 ## 1、目录
-0. Linear Regression [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)
-1. Perceptron [[dir]](https://github.com/yew1eb/machine-learning/tree/master/perceptron)
-2. KNN [[dir]](https://github.com/yew1eb/machine-learning/tree/master/KNN)
-3. Naive Bayes [[dir]](https://github.com/yew1eb/machine-learning/tree/master/Naive-bayes)
-4. Decision Tree [[dir]](https://github.com/yew1eb/machine-learning/tree/master/decision-tree)
-5. Logisitc Regression [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)
-6. SVM [[dir]](https://github.com/yew1eb/machine-learning/tree/master/SVM)
-7. Adaboost [[dir]](https://github.com/yew1eb/machine-learning/tree/master/Adaboost)
-8. CF [[dir]](https://github.com/yew1eb/machine-learning/tree/master/CF)
-9. K Means [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)
+
+|名称                  |目录 |
+|:--------------------|-------------|
+| Linear Regression   | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)|
+| Perceptron          | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/perceptron)|
+| KNN                 | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/KNN)|
+| Naive Bayes         | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/Naive-bayes)|
+| Decision Tree       | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/decision-tree)|
+| Logisitc Regression | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)|
+| SVM                 | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/SVM)|
+| Adaboost            | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/Adaboost)|
+| CF                  | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/CF)|
+| K Means             | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)|
 
 ## 2、学习资料整理
 repository:<https://github.com/yew1eb/free-resources>
