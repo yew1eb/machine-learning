@@ -38,6 +38,8 @@
 
 # 2、机器学习
 ### 2.1 总结性资料 
+* [Machine Learning Notebooks](http://sebastianraschka.com/notebooks/ml-notebooks.html)  
+* [机器学习知识结构](http://lib.csdn.net/base/2/structure)
 * [十张图解释机器学习的基本概念](http://blog.jobbole.com/63748/)
 * [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros)
 * [机器学习与模式识别 | 简书](http://www.jianshu.com/collection/1395428608b4)  
@@ -66,12 +68,14 @@
 (http://blog.csdn.net/denghp83/article/details/8996662#0-tsina-1-56037-397232819ff9a47a7b7e80a40613cfe1)
 * [Bin的专栏  Machine Learning](http://www.cnblogs.com/xbinworld/tag/Machine%20Learning/)
 【Logistic回归 vs. 决策树 vs. SVM】《Logistic Regression Vs Decision Trees Vs SVM》by Lalit Sachan Part1:http://t.cn/RUueao2 Part2:http://t.cn/RUueaoA
-[
+
+http://blog.csdn.net/ACdreamers/article/category/3055457  
+
 Liam Q的专栏
 专注于数据分析与处理](http://blog.csdn.net/qll125596718/article/category/909565/2)
 
 ### 2.3 数据降维
-PCA
+PCA  机器学习实战-PCA主成分分析、降维 - y521263的专栏 - 博客频道 - CSDN.NET
 SVD
 * [Scikit-Learn实用案例](http://muxuezi.github.io/posts/1-premodel-workflow.html)
 [不平衡分类/SVM/随机森林/决策树实力指南](http://bigdata-madesimple.com/dealing-with-unbalanced-class-svm-random-forest-and-decision-tree-in-python/)  
@@ -113,6 +117,8 @@ http://blog.csdn.net/u013524655/article/category/2693289
 
 
 # 4、集成学习(ensemble learning)算法
+[Implementing a Weighted Majority Rule Ensemble Classifier in Scikit-learn]
+(http://sebastianraschka.com/Articles/2014_ensemble_classifier.html)
 [【机器学习基础】混合和装袋](http://www.jianshu.com/p/037e1bad9fa8)  
 ## Bagging
 基于数据随机重抽样的分类器构建方法
