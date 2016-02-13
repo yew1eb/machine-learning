@@ -3,7 +3,7 @@
 
 ## 1、目录
 
-|名称                  |目录 |
+|名称                  |目录         |
 |:--------------------|-------------|
 | Linear Regression   | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/logistic-regression)|
 | Perceptron          | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/perceptron)|
@@ -17,10 +17,10 @@
 | K Means             | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)|
 
 ## 2、学习资料整理
-repository:<https://github.com/yew1eb/free-resources>
+Link:<https://github.com/yew1eb/machine-learning/tree/master/ML%20%26%20DL>
 
 ## 3、深度学习
-[Google's Free Depp Learning Course](https://www.udacity.com/course/viewer#!/c-ud730)Google的免费深度学习MOOC课程   
+Google的免费深度学习MOOC课程 [Google's Free Depp Learning Course](https://www.udacity.com/course/viewer#!/c-ud730)  
 My-Notes: <https://github.com/yew1eb/google-deep-learning-course>
 
 ## 4、学习资料

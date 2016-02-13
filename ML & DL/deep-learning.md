@@ -19,18 +19,8 @@
 
 [各种编程语言的深度学习库整理](http://www.csdn.net/article/2015-09-15/2825714)
 
-****************
-
-# 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
----
-#####注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
----
----
-#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
----
-
 * [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703)
-* [《Brief History of Machine Learning》](http://blog.csdn.net/bestlinjiayin/article/details/38848257/)
+* [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
 介绍:这是一篇介绍机器学习历史的文章，介绍很全面，从感知机、神经网络、决策树、SVM、Adaboost到随机森林、Deep Learning.
 
@@ -38,70 +28,53 @@
 
 介绍:这是瑞士人工智能实验室Jurgen Schmidhuber写的最新版本《神经网络与深度学习综述》本综述的特点是以时间排序，从1940年开始讲起，到60-80年代，80-90年代，一直讲到2000年后及最近几年的进展。涵盖了deep learning里各种tricks，引用非常全面.
 
-* [《A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library》](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 
+* [《A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library》](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 介绍:这是一份python机器学习库,如果您是一位python工程师而且想深入的学习机器学习.那么这篇文章或许能够帮助到你.
 
-* [《How to Layout and Manage Your Machine Learning Project》](http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/)
 
+* [《How to Layout and Manage Your Machine Learning Project》](http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/)
 介绍:这一篇介绍如果设计和管理属于你自己的机器学习项目的文章，里面提供了管理模版、数据管理与实践方法.
 
-* [《Machine Learning is Fun!》](https://medium.com/code-poet/80ea3ec3c471)
-
-介绍:如果你还不知道什么是机器学习，或则是刚刚学习感觉到很枯燥乏味。那么推荐一读。这篇文章已经被翻译成中文,如果有兴趣可以移步http://blog.jobbole.com/67616/
-
-
-* [《R语言参考卡片》](http://cran.r-project.org/doc/contrib/Liu-R-refcard.pdf)
-
-介绍:R语言是机器学习的主要语言,有很多的朋友想学习R语言，但是总是忘记一些函数与关键字的含义。那么这篇文章或许能够帮助到你
-
 * [《Choosing a Machine Learning Classifier》](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
-
 介绍:我该如何选择机器学习算法，这篇文章比较直观的比较了Naive Bayes，Logistic Regression，SVM，决策树等方法的优劣，另外讨论了样本大小、Feature与Model权衡等问题。此外还有已经翻译了的版本:http://www.52ml.net/15063.html
 
-* [《An Introduction to Deep Learning: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 
+* [《An Introduction to Deep Learning: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 介绍：深度学习概述：从感知机到深度网络，作者对于例子的选择、理论的介绍都很到位，由浅入深。翻译版本：http://www.cnblogs.com/xiaowanyer/p/3701944.html
 
-* [《The LION Way: Machine Learning plus Intelligent Optimization》](http://vdisk.weibo.com/s/ayG13we2vxyKl)
 
+* [《The LION Way: Machine Learning plus Intelligent Optimization》](http://vdisk.weibo.com/s/ayG13we2vxyKl)
  介绍:<机器学习与优化>这是一本机器学习的小册子, 短短300多页道尽机器学习的方方面面. 图文并茂, 生动易懂, 没有一坨坨公式的烦恼. 适合新手入门打基础, 也适合老手温故而知新. 比起MLAPP/PRML等大部头, 也许这本你更需要!具体内容推荐阅读:http://intelligent-optimization.org/LIONbook/ 
 
-* [《深度学习与统计学习理论》](http://1.guzili.sinaapp.com/?p=174)
 
+* [《深度学习与统计学习理论》](http://1.guzili.sinaapp.com/?p=174)
 介绍:作者是来自百度，不过他本人已经在2014年4月份申请离职了。但是这篇文章很不错如果你不知道深度学习与支持向量机/统计学习理论有什么联系？那么应该立即看看这篇文章.
 
-* [《计算机科学中的数学》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 
+* [《计算机科学中的数学》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 介绍:这本书是由谷歌公司和MIT共同出品的计算机科学中的数学：[Mathematics for Computer Science](Mathematics for Computer Science)，Eric Lehman et al 2013 。分为5大部分：1）证明，归纳。2）结构，数论，图。3）计数，求和，生成函数。4）概率，随机行走。5）递归。等等
 
-* [《信息时代的计算机科学理论(Foundations of Data Science)》](http://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21-2014.pdf)
 
+* [《信息时代的计算机科学理论(Foundations of Data Science)》](http://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21-2014.pdf)
 介绍：信息时代的计算机科学理论,目前国内有纸质书购买，[iTunes购买](https://itunes.apple.com/us/book/introduction-to-data-science/id529088127)
 
-* [《Data Science with R》](http://vdisk.weibo.com/s/ayG13we2vx5qg)
 
+* [《Data Science with R》](http://vdisk.weibo.com/s/ayG13we2vx5qg)
 介绍:这是一本由雪城大学新编的第二版《数据科学入门》教材：偏实用型，浅显易懂，适合想学习R语言的同学选读。
 
 * [《Twenty Questions for Donald Knuth》](http://www.informit.com/articles/article.aspx?p=2213858)
-
 介绍:这并不是一篇文档或书籍。这是篇向图灵奖得主Donald Knuth提问记录稿： 近日， Charles Leiserson, Al Aho, Jon Bentley等大神向Knuth提出了20个问题，内容包括TAOCP，P/NP问题，图灵机，逻辑，以及为什么大神不用电邮等等。
 
 * [《Automatic Construction and Natural-Language Description of Nonparametric Regression Models》](http://arxiv.org/pdf/1402.4304v2.pdf)
-
 介绍：不会统计怎么办？不知道如何选择合适的统计模型怎么办？那这篇文章你的好好读一读了麻省理工Joshua B. Tenenbaum和剑桥Zoubin Ghahramani合作，写了一篇关于automatic statistician的文章。可以自动选择回归模型类别，还能自动写报告...
 
 * [《ICLR 2014论文集》](http://openreview.net/venue/iclr2014)
-
 介绍:对深度学习和representation learning最新进展有兴趣的同学可以了解一下
 
 * [《Introduction to Information Retrieval》](http://www-nlp.stanford.edu/IR-book/)
 
 介绍：这是一本信息检索相关的书籍，是由斯坦福Manning与谷歌副总裁Raghavan等合著的Introduction to Information Retrieval一直是北美最受欢迎的信息检索教材之一。最近作者增加了该课程的幻灯片和作业。IR相关资源：http://www-nlp.stanford.edu/IR-book/information-retrieval.html
-
-* [《Machine learning in 10 pictures》](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html)
-
-介绍:Deniz Yuret用10张漂亮的图来解释机器学习重要概念：1. Bias/Variance Tradeoff 2. Overfitting 3. Bayesian / Occam's razor 4. Feature combination 5. Irrelevant feature 6. Basis function 7. Discriminative / Generative 8. Loss function 9. Least squares 10. Sparsity.很清晰
 
 * [《雅虎研究院的数据集汇总》](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l)
 
@@ -110,10 +83,6 @@
 * [《An Introduction to Statistical Learning with Applications in R》](http://www-bcf.usc.edu/~gareth/ISL/)
 
 介绍：这是一本斯坦福统计学著名教授Trevor Hastie和Robert Tibshirani的新书，并且在2014年一月已经开课：https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about
-
-* [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
-
-介绍：机器学习最佳入门学习资料汇总是专为机器学习初学者推荐的优质学习资源，帮助初学者快速入门。而且这篇文章的介绍已经被翻译成[中文版](http://article.yeeyan.org/view/22139/410514)。如果你不怎么熟悉，那么我建议你先看一看中文的介绍。
 
 * [My deep learning reading list](http://blog.sina.com.cn/s/blog_bda0d2f10101fpp4.html)
 
@@ -136,9 +105,6 @@
 
 介绍：这是一本关于分布式并行处理的数据《Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises》,作者是斯坦福的James L. McClelland。着重介绍了各种神级网络算法的分布式实现,做Distributed Deep Learning 的童鞋可以参考下
 
-* [《“机器学习”是什么？》](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
-
-介绍:【“机器学习”是什么？】John Platt是微软研究院杰出科学家，17年来他一直在机器学习领域耕耘。近年来机器学习变得炙手可热，Platt和同事们遂决定开设[博客](http://blogs.technet.com/b/machinelearning/)，向公众介绍机器学习的研究进展。机器学习是什么，被应用在哪里？来看Platt的这篇[博文](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
 
 * [《2014年国际机器学习大会ICML 2014 论文》](http://icml.cc/2014/index/article/15.htm)
 
@@ -159,6 +125,7 @@
 
 介绍:本教程将阐述无监督特征学习和深度学习的主要观点。通过学习，你也将实现多个功能学习/深度学习算法，能看到它们为你工作，并学习如何应用/适应这些想法到新问题上。本教程假定机器学习的基本知识（特别是熟悉的监督学习，逻辑回归，梯度下降的想法），如果你不熟悉这些想法，我们建议你去这里[机器学习课程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，并先完成第II，III，IV章（到逻辑回归）。此外这关于这套教程的源代码在github上面已经有python版本了[ UFLDL Tutorial Code](https://github.com/jatinshah/ufldl_tutorial)
 
+
 *[《Deep Learning for Natural Language Processing and Related Applications》](http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf)
 
 介绍:这份文档来自微软研究院,精髓很多。如果需要完全理解，需要一定的机器学习基础。不过有些地方会让人眼前一亮,毛塞顿开。
@@ -166,14 +133,6 @@
 * [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 介绍:这是一篇介绍图像卷积运算的文章，讲的已经算比较详细的了
-
-* [《Machine Learning Summer School》](http://mlss2014.com/)
-
-介绍：每天请一个大牛来讲座，主要涉及机器学习，大数据分析，并行计算以及人脑研究。https://www.youtube.com/user/smolix    （需翻墙）
-
-* [《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
-
-介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)，[机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 * [斯坦福《自然语言处理》课程视频](http://see.stanford.edu/see/lecturelist.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
 
@@ -195,37 +154,6 @@
 
 介绍：Java机器学习相关平台和开源的机器学习库，按照大数据、NLP、计算机视觉和Deep Learning分类进行了整理。看起来挺全的，Java爱好者值得收藏。
 
-* [《Machine Learning Theory: An Introductory Primer》](http://www.oschina.net/translate/6-tips-for-writing-better-code)
-
-介绍：机器学习最基本的入门文章，适合零基础者
-
-* [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
-
-介绍：机器学习的算法很多。很多时候困惑人们都是，很多算法是一类算法，而有些算法又是从其他算法中延伸出来的。这里，我们从两个方面来给大家介绍，第一个方面是学习的方式，第二个方面是算法的类似性。
-
-* [《机器学习经典论文/survey合集》](http://suanfazu.com/discussion/68/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87survey%E5%90%88%E9%9B%86)
-
-介绍：看题目你已经知道了是什么内容,没错。里面有很多经典的机器学习论文值得仔细与反复的阅读。
-
-* [《机器学习视频库》](http://work.caltech.edu/library/)
-
-介绍：视频由加州理工学院（Caltech）出品。需要英语底子。
-
-* [《机器学习经典书籍》](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
-
-介绍：总结了机器学习的经典书籍，包括数学基础和算法理论的书籍，可做为入门参考书单。
-
-* [《16 Free eBooks On Machine Learning》](http://efytimes.com/e1/fullnews.asp?edid=121516)
-
-介绍:16本机器学习的电子书，可以下载下来在pad，手机上面任意时刻去阅读。不多我建议你看完一本再下载一本。
-
-* [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
-
-介绍:标题很大，从新手到专家。不过看完上面所有资料。肯定是专家了
-
-* [《机器学习最佳入门学习资料汇总》](http://article.yeeyan.org/view/22139/410514)
-
-介绍：入门的书真的很多，而且我已经帮你找齐了。
 
 * [《Sibyl》](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf)
 
@@ -251,9 +179,6 @@
 
 介绍:Important resources for learning and understanding . Is awesome
 
-* [《Machine Learning Theory: An Introductory Primer》](http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-
-介绍:这又是一篇机器学习初学者的入门文章。值得一读
 
 * [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
 
@@ -263,6 +188,7 @@
 
 介绍:python的17个关于机器学习的工具
 
+
 * [《神奇的伽玛函数(上)》](http://www.flickering.cn/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/2014/06/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BC%BD%E7%8E%9B%E5%87%BD%E6%95%B0%E4%B8%8A/)
 
 介绍:下集在这里[神奇的伽玛函数(下)](http://www.flickering.cn/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/2014/06/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BC%BD%E7%8E%9B%E5%87%BD%E6%95%B0%E4%B8%8A/)
@@ -271,13 +197,11 @@
 
 介绍:作者王益目前是腾讯广告算法总监，王益博士毕业后在google任研究。这篇文章王益博士7年来从谷歌到腾讯对于分布机器学习的所见所闻。值得细读
 
-* [《机器学习提升之道（Level-Up Your Machine Learning）》](http://metacademy.org/roadmaps/cjrd/level-up-your-ml)
-
-介绍:把机器学习提升的级别分为0~4级，每级需要学习的教材和掌握的知识。这样，给机器学习者提供一个上进的路线图，以免走弯路。另外，整个网站都是关于机器学习的，资源很丰富。
 
 * [《Machine Learning Surveys》](http://www.mlsurveys.com/)
 
 介绍:机器学习各个方向综述的网站
+
 
 * [《Deep Learning Reading list》](http://deeplearning.net/reading-list/)
 
@@ -287,9 +211,6 @@
 
 介绍：这是一本来自微的研究员 li Peng和Dong Yu所著的关于深度学习的方法和应用的电子书
 
-* [《Machine Learning Summer School 2014》](http://pan.baidu.com/s/1pJ0ok7T)
-
-介绍:2014年七月CMU举办的机器学习夏季课刚刚结束 有近50小时的视频、十多个PDF版幻灯片，覆盖 深度学习，贝叶斯，分布式机器学习，伸缩性 等热点话题。所有13名讲师都是牛人：包括大牛Tom Mitchell （他的［机器学习］是名校的常用教材），还有CMU李沐 .（1080P高清哟）
 
 * [《Sibyl: 来自Google的大规模机器学习系统》](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf)
 
@@ -299,33 +220,33 @@
 
 介绍:谷歌研究院的Christian Szegedy在谷歌研究院的博客上简要地介绍了他们今年参加ImageNet取得好成绩的GoogLeNet系统.是关于图像处理的。
 
-* [《Bayesian network 与python概率编程实战入门》](https://github.com/memect/hao/blob/master/awesome/bayesian-network-python.md)
 
-介绍:贝叶斯学习。如果不是很清可看看[概率编程语言与贝叶斯方法实践](http://www.infoq.com/cn/news/2014/07/programming-language-bayes)
+
 
 * [《AMA: Michael I Jordan》](http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/)
 
 介绍:网友问伯克利机器学习大牛、美国双料院士Michael I. Jordan："如果你有10亿美金，你怎么花？Jordan: "我会用这10亿美金建造一个NASA级别的自然语言处理研究项目。" 
 
-* [《机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）》](http://www.cnblogs.com/tornadomeet/p/3395593.html)
-
-介绍:常见面试之机器学习算法思想简单梳理,此外作者还有一些其他的[机器学习与数据挖掘文章](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)和[深度学习文章](http://www.cnblogs.com/tornadomeet/tag/Deep%E3%80%80Learning/),不仅是理论还有源码。
 
 * [《文本与数据挖掘视频汇总》](http://www.kdnuggets.com/2014/09/most-viewed-web-mining-lectures-videolectures.html)
 
 介绍：Videolectures上最受欢迎的25个文本与数据挖掘视频汇总
 
+
 * [《怎么选择深度学习的GPUs》](http://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/)
 
 介绍:在Kaggle上经常取得不错成绩的Tim Dettmers介绍了他自己是怎么选择深度学习的GPUs, 以及个人如何构建深度学习的GPU集群: http://t.cn/RhpuD1G 
+
 
 * [《对话机器学习大神Michael Jordan：深度模型》](http://www.infoq.com/cn/news/2014/09/depth-model)
 
 介绍:对话机器学习大神Michael Jordan
 
+
 * [《Deep Learning 和 Knowledge Graph 引爆大数据革命》](http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html)
 
 介绍:还有２，３部分。http://blog.sina.com.cn/s/blog_46d0a3930101gs5h.html
+
 
 * [《Deep Learning 教程翻译》](http://blog.sina.com.cn/s/blog_46d0a3930101h6nf.html)
 
@@ -339,17 +260,21 @@
 
 介绍:这是斯坦福大学做的一免费课程（很勉强），这个可以给你在深度学习的路上给你一个学习的思路。里面提到了一些基本的算法。而且告诉你如何去应用到实际环境中。[中文版](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
+
 * [《Toronto Deep Learning Demos》](http://deeplearning.cs.toronto.edu/)
 
 介绍:这是多伦多大学做的一个深度学习用来识别图片标签／图转文字的demo。是一个实际应用案例。有源码
+
 
 * [《Deep learning from the bottom up》](http://metacademy.org/roadmaps/rgrosse/deep_learning)
 
 介绍:机器学习模型，阅读这个内容需要有一定的基础。
 
+
 * [《R工具包的分类汇总》](http://cran.r-project.org/web/views/)
 
 介绍: (CRAN Task Views, 34种常见任务,每个任务又各自分类列举若干常用相关工具包) 例如: 机器学习，自然语言处理，时间序列分析，空间信息分析，多重变量分析，计量经济学，心理统计学，社会学统计，化学计量学，环境科学，药物代谢动力学 等
+
 
 * [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
 
@@ -387,21 +312,16 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:LinkedIn 开源的机器学习工具包,支持单机, Hadoop cluster，和 Spark cluster 重点是 logistic regression 算法
 
-* [《机器学习周刊》](http://ztl2004.github.io/MachineLearningWeekly/index.html)
-
-介绍:对于英语不好，但又很想学习机器学习的朋友。是一个大的福利。机器学习周刊目前主要提供中文版，还是面向广大国内爱好者，内容涉及机器学习、数据挖掘、并行系统、图像识别、人工智能、机器人等等。谢谢作者
 
 * [《线性代数》](http://v.163.com/special/opencourse/daishu.html)
 
 介绍：《线性代数》是《机器学习》的重要数学先导课程。其实《线代》这门课讲得浅显易懂特别不容易，如果一上来就讲逆序数及罗列行列式性质，很容易让学生失去学习的兴趣。我个人推荐的最佳《线性代数》课程是麻省理工Gilbert Strang教授的课程。 [课程主页](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
+
 * [《Big-data》](http://blog.andreamostosi.name/big-data/)
 
 介绍:大数据数据处理资源、工具不完备列表，从框架、分布式编程、分布式文件系统、键值数据模型、图数据模型、数据可视化、列存储、机器学习等。很赞的资源汇总。
 
-* [《machine learning for smart dummies》](http://yahoolabs.tumblr.com/post/97839313996/machine-learning-for-smart-dummies)
-
-介绍:雅虎邀请了一名来自本古里安大学的访问学者，制作了一套关于机器学习的系列视频课程。本课程共分为7期，详细讲解了有关SVM, boosting, nearest neighbors, decision trees 等常规机器学习算法的理论基础知识。
 
 * [《Entanglement-Based Quantum Machine Learning》](http://arxiv.org/abs/1409.7770)
 
@@ -415,9 +335,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:MIT的Underactuated Robotics于 2014年10月1日开课，该课属于MIT研究生级别的课程，对机器人和非线性动力系统感兴趣的朋友不妨可以挑战一下这门课程！
 
-* [《mllib实践经验(1)》](http://yanbohappy.sinaapp.com/?p=498)
 
-介绍:mllib实践经验分享
 
 * [《Google Turns To Deep Learning Classification To Fight Web Spam》](http://www.seobythesea.com/2014/09/google-turns-deep-learning-classification-fight-web-spam/)
 
@@ -427,10 +345,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:NLP常用信息资源* [《NLP常用信息资源》](https://github.com/memect/hao/blob/master/awesome/nlp.md)
 
-
-* [《机器学习速查表》](https://github.com/soulmachine/machine-learning-cheat-sheet)
-
-介绍:机器学习速查表
 
 * [《Best Papers vs. Top Cited Papers in Computer Science》](http://arnetminer.org/conferencebestpapers)
 
@@ -460,14 +374,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：深度学习入门的初级读本
 
-* [《Machine learning is teaching us the secret to teaching 》](https://news.ycombinator.com/item?id=8379571)
-
-介绍：机器学习教会了我们什么？
-
-* [《scikit-learn：用于机器学习的Python模块》](http://scikit-learn.org/stable/documentation.html)
-
-介绍：scikit-learn是在SciPy基础上构建的用于机器学习的Python模块。
-
 
 * [《对话机器学习大神Michael Jordan：解析领域中各类模型》](http://www.infoq.com/cn/news/2014/10/interview-michael-jordan)
 
@@ -485,9 +391,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：现任复旦大学首席教授、计算机软件博士生导师。计算机科学研究所副所长.内部课程
 
-* [《机器学习入门资源不完全汇总》](http://ml.memect.com/article/machine-learning-guide.html)
-
-介绍：好东西的干货真的很多
 
 * [《收集从2014年开始深度学习文献》](http://memkite.com/deep-learning-bibliography/)
 
@@ -557,10 +460,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：【语料库】语料库资源汇总
 
-* [《机器学习算法之旅》](http://blog.jobbole.com/60809/)
-
-介绍：本文会过一遍最流行的机器学习算法，大致了解哪些方法可用，很有帮助。
-
 * [《Reproducible Research in Computational Science》](http://www.csee.wvu.edu/~xinl/source.html)
 
 介绍：这个里面有很多关于机器学习、信号处理、计算机视觉、深入学习、神经网络等领域的大量源代码（或可执行代码）及相关论文。科研写论文的好资源
@@ -583,11 +482,12 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Support Vector Machines》](http://www.support-vector-machines.org/index.html)
 
-介绍：[数据挖掘十大经典算法](files.cnblogs.com/tekson/数据挖掘之经典算法.doc)之一
+
 
 * [《100 Best GitHub: Deep Learning》](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 
 介绍：github上面100个非常棒的项目
+
 
 * [《加州大学欧文分校(UCI)机器学习数据集仓库》](http://archive.ics.uci.edu/ml)
 
@@ -645,25 +545,26 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：第十二届中国"机器学习及其应用"研讨会PPT
 
+
 * [《统计机器学习》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=398)
 
 介绍：统计学习是关于计算机基于数据构建的概率统计模型并运用模型对数据进行预测和分析的一门科学，统计学习也成为统计机器学习。课程来自上海交通大学
+
 
 * [《机器学习导论》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=397)
 
 介绍：机器学习的目标是对计算机编程，以便使用样本数据或以往的经验来解决给定的问题.
 
+
 * [《CIKM 2014主题报告的幻灯片》](http://cikm2014.fudan.edu.cn/)
 
 介绍：CIKM 2014 Jeff Dean、Qi Lu、Gerhard Weikum的主题报告的幻灯片， Alex Smola、Limsoon Wong、Tong Zhang、Chih-Jen Lin的Industry Track报告的幻灯片
+
 
 * [《人工智能和机器学习领域有趣的开源项目》](http://deeplearning.net/software_links/)
 
 介绍：部分中文[列表](http://code.csdn.net/news/2822818)
 
-* [《机器学习经典算法详解及Python实现--基于SMO的SVM分类器》](http://blog.csdn.net/suipingsp/article/details/41645779)
-
-介绍:此外作者还有一篇[元算法、AdaBoost　python实现文章](http://blog.csdn.net/suipingsp/article/details/41722435)
 
 * [《Numerical Optimization: Understanding L-BFGS》](http://aria42.com/blog/2014/12/understanding-lbfgs/)
 
@@ -769,17 +670,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:机器学习开源软件,收录了各种机器学习的各种编程语言学术与商业的开源软件．与此类似的还有很多例如:[DMOZ - Computers: Artificial Intelligence: Machine Learning: Software](http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Software/),　[LIBSVM -- A Library for Support Vector Machines](http://www.csie.ntu.edu.tw/~cjlin/libsvm/),　[Weka 3: Data Mining Software in Java](http://www.cs.waikato.ac.nz/ml/weka/),　[scikit-learn:Machine Learning in Python](http://scikit-learn.org/stable/),　[Natural Language Toolkit:NLTK](www.nltk.org),　[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu/),　[Data Mining - Fruitful and Fun](http://orange.biolab.si/),　[Open Source Computer Vision Library](http://opencv.willowgarage.com/wiki/)
 
-* [《机器学习入门者学习指南》](http://www.guokr.com/post/512037/)
-
-介绍:作者是计算机研二(写文章的时候，现在是2015年了应该快要毕业了)，专业方向自然语言处理．这是一点他的经验之谈．对于入门的朋友或许会有帮助
-
-* [《A Tour of Machine Learning Algorithms》](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-
-介绍:这是一篇关于机器学习算法分类的文章，非常好
-
-* [《2014年的《机器学习日报》大合集》](http://ml.memect.com/download/2014.zip)
-
-介绍:机器学习日报里面推荐很多内容，在这里有一部分的优秀内容就是来自机器学习日报．
 
 * [《 Image classification with deep learning常用模型》](http://blog.csdn.net/abcjennifer/article/details/42493493)
 
@@ -816,10 +706,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A Deep Dive into Recurrent Neural Nets》](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
 
 介绍: 非常好的讨论递归神经网络的文章，覆盖了RNN的概念、原理、训练及优化等各个方面内容，强烈推荐！本文作者Nikhil Buduma还有一篇[Deep Learning in a Nutshell](http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/)值得推荐
-
-* [《机器学习：学习资源》](http://qianjiye.de/2014/11/machine-learning-resources/)
-
-介绍:里面融合了很多的资源，例如竞赛，在线课程，demo，数据整合等。有分类
 
 * [《Statistical foundations of machine learning》](https://www.otexts.org/book/sfml)
 
@@ -921,9 +807,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 一个讲机器学习的Youtube视频教程。160集。系统程度跟书可比拟。
 
-* [《回归(regression)、梯度下降(gradient descent)》](http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html)
-
-介绍: 机器学习中的数学，作者的研究方向是机器学习，并行计算如果你还想了解一点其他的可以看看他[博客](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)的其他文章
 
 * [《美团推荐算法实践》](http://tech.meituan.com/mt-recommend-practice.html)
 
@@ -961,13 +844,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 多伦多大学与Google合作的新论文，深度学习也可以用来下围棋，据说能达到六段水平
 
-* [《机器学习周刊第二期》](http://ztl2004.github.io/MachineLearningWeekly/issue2.html)
-
-介绍: 新闻，paper,课程，book，system,CES,Roboot，此外还推荐一个[深度学习入门与综述资料](http://blog.newitfarmer.com/ai/deep-learning/15302/repost-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E4%B8%8E%E7%BB%BC%E8%BF%B0%E8%B5%84%E6%96%99)
-
-* [《Learning more like a human: 18 free eBooks on Machine Learning》](http://www.bigdata-madesimple.com/learning-more-like-a-human-18-free-ebooks-on-machine-learning/)
-
-介绍: 18 free eBooks on Machine Learning
 
 * [《Recommend :Hang Li Home》](http://www.hangli-hl.com/)
 
@@ -997,13 +873,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: Quora上的主题，讨论Word2Vec的有趣应用，Omer Levy提到了他在CoNLL2014最佳论文里的分析结果和新方法，Daniel Hammack给出了找特异词的小应用并提供了[(Python)代码](https://github.com/dhammack/Word2VecExample)
 
-* [《机器学习公开课汇总》](http://blog.coursegraph.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E6%B1%87%E6%80%BB)
 
-介绍: 机器学习公开课汇总,虽然里面的有些课程已经归档过了，但是还有个别的信息没有。感谢课程图谱的小编
-
-* [《A First Course in Linear Algebra》](http://linear.ups.edu/download.html)
-
-介绍: 【A First Course in Linear Algebra】Robert Beezer 有答案 有移动版、打印版 使用GNU自由文档协议 引用了杰弗逊1813年的信
 
 * [《libfacedetection》](https://github.com/ShiqiYu/libfacedetection)
 
@@ -1013,9 +883,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:WSDM2015最佳论文 把马尔可夫链理论用在了图分析上面，比一般的propagation model更加深刻一些。通过全局的平稳分布去求解每个节点影响系数模型。假设合理（转移受到相邻的影响系数影响）。可以用来反求每个节点的影响系数
 
-* [《机器学习入门书单》](http://pan.baidu.com/s/1pJogO7x)
-
-介绍:机器学习入门书籍，[具体介绍](http://www.hankcs.com/ml/machine-learning-entry-list.html)
 
 * [《The Trouble with SVMs》](http://v1v3kn.tumblr.com/post/47193952400/the-trouble-with-svms)
 
@@ -1213,9 +1080,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:新加坡LV实验室的神经网络并行框架[Purine: A bi-graph based deep learning framework](http://arxiv.org/abs/1412.6249),支持构建各种并行的架构，在多机多卡，同步更新参数的情况下基本达到线性加速。12块Titan 20小时可以完成Googlenet的训练。
 
-* [《Machine Learning Resources》](http://michal.io/machine-learning-resources/)
-
-介绍:这是一个机器学习资源库,虽然比较少.但蚊子再小也是肉.有突出部分.此外还有一个由[zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html).
 
 * [《Hands-on with machine learning》](https://github.com/cjdd3b/nicar2015/tree/master/machine-learning)
 
@@ -1341,9 +1205,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:Stanford深度学习与自然语言处理课程,Richard Socher主讲.
 
-* [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
 
-介绍:机器学习中的重要数学概念.
 
 * [《Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks》](http://arxiv.org/abs/1503.00007)
 
@@ -1525,9 +1387,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:A Deep Learning Tutorial: From Perceptrons to Deep Networks.
 
-* [《Machine Learning is Fun! - The world’s easiest introduction to Machine Learning》](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-
-介绍:有趣的机器学习：最简明入门指南,[中文版](http://blog.jobbole.com/67616/).
 
 * [《A Brief Overview of Deep Learning》](yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html)
 
@@ -1553,9 +1412,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:华盛顿大学的Machine Learning Paper Repository.
 
-* [《Machine learning cheat sheet》](https://github.com/soulmachine/machine-learning-cheat-sheet)
-
-介绍:机器学习速查表.
 
 * [《Spark summit east 2015 agenda》](http://spark-summit.org/east)
 
@@ -1757,9 +1613,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:Machine Learning for Astronomy with scikit-learn.
 
-* [《An Introduction to Random Forests for Beginners》](http://info.salford-systems.com/an-introduction-to-random-forests-for-beginners)
-
-介绍:免费电子书"随机森林入门指南".
 
 * [《Top 10 data mining algorithms in plain English》](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
@@ -2061,16 +1914,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:利用(Metamind)深度学习自动发现篮球赛精彩片段.
 
-
-#机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)
----
-#####注:机器学习资料
-
-[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条  
-[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新 
- 
-
----
 
 #####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
 ---
@@ -2467,9 +2310,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:来自伯克利分校的大规模机器学习.
 
-* [《机器学习资料大汇总》](http://www.52ml.net/star)
-
-介绍:来自52ml的机器学习资料大汇总.
 
 * [《Automatic Summarization》](http://www.cis.upenn.edu/~nenkova/1500000015-Nenkova.pdf)
 
@@ -2527,9 +2367,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:谷歌研究院Samy Bengio等人最近写的RNN的Scheduled Sampling训练方法论文.
 
-* [《Essential Machine Learning Algorithms in a nutshell》](https://manish.wordpress.com/2015/10/02/essential-machine-learning-algorithms-in-a-nutshell/)
 
-介绍:机器学习基本算法简要入门.
 
 * [《A Huge List of Machine Learning And Statistics Repositories》](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
 
@@ -2571,9 +2409,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:数据科学(学习)资源列表.
 
-* [《8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset》](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 
-介绍:应对非均衡数据集分类问题的八大策略.
 
 * [《Top 20 Data Science MOOCs》](https://datarithms.wordpress.com/2015/08/16/top-20-data-science-moocs/)
 
@@ -2792,10 +2628,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《LSA 311: Computational Lexical Semantics - Summer 2015》](http://web.stanford.edu/~jurafsky/li15/)
 
 介绍:Stanford新课"计算词汇语义学"
-
-* [《上海交大张志华老师的统计机器学习与机器学习导论视频》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=397)
-
-介绍:上海交大张志华老师的统计机器学习与机器学习导论视频[链接:](http://pan.baidu.com/s/1mgPi7jU )密码: r9ak .[概率基础](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=398)
 
 * [《Computational Linguistics and Deep Learning》](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
 

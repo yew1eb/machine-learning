@@ -39,3 +39,6 @@ scikit-learn主页：[scikit-learn homepage](scikit-learn.org/dev/)
 * [干货：结合Scikit-learn介绍几种常用的特征选择方法](http://www.tuicool.com/articles/ieUvaq)
 * [python并行调参——scikit-learn grid_search](http://blog.csdn.net/abcjennifer/article/details/23884761)
 * [Newest'scikit-learn' Questions -Stack Overflow](http://stackoverflow.com/questions/tagged/scikit-learn)
+* [《scikit-learn：用于机器学习的Python模块》](http://scikit-learn.org/stable/documentation.html)
+
+介绍：scikit-learn是在SciPy基础上构建的用于机器学习的Python模块。
