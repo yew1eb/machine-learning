@@ -55,6 +55,12 @@
 * [机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 * [《机器学习公开课汇总》](http://blog.coursegraph.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E6%B1%87%E6%80%BB)
 * [《机器学习入门者学习指南》](http://www.guokr.com/post/512037/)
+* [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
+* [《机器学习视频库》](http://work.caltech.edu/library/)
+* [《机器学习经典书籍》](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
+* [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
+* [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) 
+介绍:机器学习中的重要数学概念.  
 
 #### 2.2 博客专栏
 * [Machine Learning Notebooks](http://sebastianraschka.com/notebooks/ml-notebooks.html)  
@@ -68,38 +74,6 @@
 * [tornadomeet资料目录](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
 
 
-
-
-
-* [《Machine Learning Theory: An Introductory Primer》](http://www.oschina.net/translate/6-tips-for-writing-better-code)
-
-介绍：机器学习最基本的入门文章，适合零基础者
-* [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
-
-介绍：机器学习的算法很多。很多时候困惑人们都是，很多算法是一类算法，而有些算法又是从其他算法中延伸出来的。这里，我们从两个方面来给大家介绍，第一个方面是学习的方式，第二个方面是算法的类似性。
-
-* [《机器学习经典论文/survey合集》](http://suanfazu.com/discussion/68/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87survey%E5%90%88%E9%9B%86)
-
-介绍：看题目你已经知道了是什么内容,没错。里面有很多经典的机器学习论文值得仔细与反复的阅读。
-
-* [《机器学习视频库》](http://work.caltech.edu/library/)
-
-介绍：视频由加州理工学院（Caltech）出品。需要英语底子。
-* [《机器学习经典书籍》](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
-
-介绍：总结了机器学习的经典书籍，包括数学基础和算法理论的书籍，可做为入门参考书单。
-
-* [《16 Free eBooks On Machine Learning》](http://efytimes.com/e1/fullnews.asp?edid=121516)
-
-介绍:16本机器学习的电子书，可以下载下来在pad，手机上面任意时刻去阅读。不多我建议你看完一本再下载一本。
-
-* [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
-
-介绍:标题很大，从新手到专家。不过看完上面所有资料。肯定是专家了
-
-* [《机器学习最佳入门学习资料汇总》](http://article.yeeyan.org/view/22139/410514)
-
-介绍：入门的书真的很多，而且我已经帮你找齐了。
 * [《Machine Learning Theory: An Introductory Primer》](http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
 介绍:这又是一篇机器学习初学者的入门文章。值得一读
@@ -141,22 +115,12 @@
 
 介绍:这是一篇关于机器学习算法分类的文章，非常好
 
-* [《机器学习经典算法详解及Python实现--基于SMO的SVM分类器》](http://blog.csdn.net/suipingsp/article/details/41645779)
 
-介绍:此外作者还有一篇[元算法、AdaBoost　python实现文章](http://blog.csdn.net/suipingsp/article/details/41722435)
 * [《Machine Learning Resources》](http://michal.io/machine-learning-resources/)
 
-介绍:这是一个机器学习资源库,虽然比较少.但蚊子再小也是肉.有突出部分.此外还有一个由[zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html).
+介绍:这是一个机器学习资源库,虽然比较少.但蚊子再小也是肉.有突出部分.此外还有一个由
+[zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html).
 
-* [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
-介绍:机器学习中的重要数学概念.
-
-* [《Machine learning cheat sheet》](https://github.com/soulmachine/machine-learning-cheat-sheet)
-介绍:机器学习速查表.
-
-
-* [《Essential Machine Learning Algorithms in a nutshell》](https://manish.wordpress.com/2015/10/02/essential-machine-learning-algorithms-in-a-nutshell/)
-介绍:机器学习基本算法简要入门.
 
 
 #### 2.2 其他杂项

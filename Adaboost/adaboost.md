@@ -5,3 +5,6 @@ AbaBoost是adaptive boosting的缩写，其运行过程如下：训练数据中�
 将会降低，而第一次分错的样本的权重将会提高。为了从所有弱分类器中得到最终的分类结果，AbaBoost为每个分类器都分配了一
 个权重值alpha，这些alpha值是基于每个弱分类器的错误率进行计算的。
 
+
+
+介绍:此外作者还有一篇[元算法、AdaBoost　python实现文章](http://blog.csdn.net/suipingsp/article/details/41722435)
