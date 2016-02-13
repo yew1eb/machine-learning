@@ -61,6 +61,8 @@
 * [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
 * [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) 
 介绍:机器学习中的重要数学概念.  
+* [zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
+* [《机器学习算法之旅》](http://blog.jobbole.com/60809/)
 
 #### 2.2 博客专栏
 * [Machine Learning Notebooks](http://sebastianraschka.com/notebooks/ml-notebooks.html)  
@@ -72,56 +74,12 @@
 * [Liam Q的专栏 专注于数据分析与处理](http://blog.csdn.net/qll125596718/article/category/909565/2)
 * [Bin的专栏  Machine Learning](http://www.cnblogs.com/xbinworld/tag/Machine%20Learning/)
 * [tornadomeet资料目录](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
+* [leftnoteasy ](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)
+* [机器学习：学习资源](http://qianjiye.de/2014/11/machine-learning-resources/)
 
 
-* [《Machine Learning Theory: An Introductory Primer》](http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
-介绍:这又是一篇机器学习初学者的入门文章。值得一读
-
-* [《机器学习提升之道（Level-Up Your Machine Learning）》](http://metacademy.org/roadmaps/cjrd/level-up-your-ml)
-
-介绍:把机器学习提升的级别分为0~4级，每级需要学习的教材和掌握的知识。这样，给机器学习者提供一个上进的路线图，以免走弯路。另外，整个网站都是关于机器学习的，资源很丰富。
-* [《Machine Learning Summer School 2014》](http://pan.baidu.com/s/1pJ0ok7T)
-
-介绍:2014年七月CMU举办的机器学习夏季课刚刚结束 有近50小时的视频、十多个PDF版幻灯片，覆盖 深度学习，贝叶斯，分布式机器学习，伸缩性 等热点话题。所有13名讲师都是牛人：包括大牛Tom Mitchell （他的［机器学习］是名校的常用教材），还有CMU李沐 .（1080P高清哟）
-
-* [《Bayesian network 与python概率编程实战入门》](https://github.com/memect/hao/blob/master/awesome/bayesian-network-python.md)
-
-介绍:贝叶斯学习。如果不是很清可看看[概率编程语言与贝叶斯方法实践](http://www.infoq.com/cn/news/2014/07/programming-language-bayes)
-* [《machine learning for smart dummies》](http://yahoolabs.tumblr.com/post/97839313996/machine-learning-for-smart-dummies)
-
-介绍:雅虎邀请了一名来自本古里安大学的访问学者，制作了一套关于机器学习的系列视频课程。本课程共分为7期，详细讲解了有关SVM, boosting, nearest neighbors, decision trees 等常规机器学习算法的理论基础知识。
-
-* [《机器学习速查表》](https://github.com/soulmachine/machine-learning-cheat-sheet)
-
-介绍:机器学习速查表
-* [《机器学习算法之旅》](http://blog.jobbole.com/60809/)
-
-介绍：本文会过一遍最流行的机器学习算法，大致了解哪些方法可用，很有帮助。
-
-* [《机器学习：学习资源》](http://qianjiye.de/2014/11/machine-learning-resources/)
-
-介绍:里面融合了很多的资源，例如竞赛，在线课程，demo，数据整合等。有分类
-* [《回归(regression)、梯度下降(gradient descent)》](http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html)
-
-介绍: 机器学习中的数学，作者的研究方向是机器学习，并行计算如果你还想了解一点其他的可以看看他[博客](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)的其他文章
-
-* [《Learning more like a human: 18 free eBooks on Machine Learning》](http://www.bigdata-madesimple.com/learning-more-like-a-human-18-free-ebooks-on-machine-learning/)
-
-介绍: 18 free eBooks on Machine Learning
-
-
-* [《A Tour of Machine Learning Algorithms》](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-
-介绍:这是一篇关于机器学习算法分类的文章，非常好
-
-
-* [《Machine Learning Resources》](http://michal.io/machine-learning-resources/)
-
-介绍:这是一个机器学习资源库,虽然比较少.但蚊子再小也是肉.有突出部分.此外还有一个由
-[zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html).
-
-
+.
 
 #### 2.2 其他杂项
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas]
@@ -140,9 +98,7 @@ Part1:http://t.cn/RUueao2 Part2:http://t.cn/RUueaoA
 
 
 #### 2.3 数据降维
-PCA  机器学习实战-PCA主成分分析、降维 - y521263的专栏 - 博客频道 - CSDN.NET
-SVD
-
+PCA  机器学习实战-PCA主成分分析、降维 - y521263的专栏 - 博客频道 - CSDN.NET  
 [不平衡分类/SVM/随机森林/决策树实力指南](http://bigdata-madesimple.com/dealing-with-unbalanced-class-svm-random-forest-and-decision-tree-in-python/)  
 
 ## 3、特征工程 
@@ -191,7 +147,6 @@ http://blog.csdn.net/u013524655/article/category/2693289
 [Spark 随机森林算法原理、源码分析及案例实战](https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-random-forest/)   
   
 ### Boosting
-
    * 自适应提升树 AdaBoost  
      [【机器学习基础】自适应提升](http://www.jianshu.com/p/2d5db988662a)   
      [【机器学习基础】梯度提升决策树](http://www.jianshu.com/p/819a21e1e8ef)  
