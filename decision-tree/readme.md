@@ -1,3 +1,6 @@
+决策树算法介绍及应用  http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208653419&idx=2&sn=7a9bb3f7350ea43cf4144b5497679521&scene=0#rd   
+
+
 <http://yuenshome.sinaapp.com/2015/04/python%E5%AE%9E%E7%8E%B0id3%E7%AE%97%E6%B3%95/>  
 
 - ID3、C4.5的Python实现，其中C4.5有待完善，后续加入CART。

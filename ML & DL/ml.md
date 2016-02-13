@@ -42,32 +42,35 @@
 ## 2、机器学习
 #### 2.1 汇总性资料 
 * [8步从Python白板到专家，从基础到深度学习](http://dataunion.org/15057.html)  
+* [机器学习算法之旅](http://blog.jobbole.com/60809/)
+* [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
+* [mastering-machine-learning-scikit-learn中文版](https://muxuezi.github.io/posts/0-perface.html) 
+* [机器学习资料大汇总](http://www.kuqin.com/shuoit/20150923/348242.html)  
+* [机器学习常见算法分类汇总](http://blog.jobbole.com/77620/)  
+* [机器学习算法基础概念学习总结](http://blog.jobbole.com/74716/)  
+* [机器学习算法基础知识](http://www.36dsj.com/archives/8911)  
+* [数据挖掘18大算法实现以及其他相关经典DM算法](https://github.com/linyiqun/DataMiningAlgorithm)
+* [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
+* [国外程序员整理的机器学习资源大全 -《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
+* [机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+* [《机器学习公开课汇总》](http://blog.coursegraph.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E6%B1%87%E6%80%BB)
+* [《机器学习入门者学习指南》](http://www.guokr.com/post/512037/)
 
-#### 博客专栏
+#### 2.2 博客专栏
 * [Machine Learning Notebooks](http://sebastianraschka.com/notebooks/ml-notebooks.html)  
 * [机器学习与模式识别 | 简书](http://www.jianshu.com/collection/1395428608b4)  
 * [机器学习经典算法详解及Python实现 | Adan](http://blog.csdn.net/suipingsp/article/category/2749113)   
 * [机器学习算法系列 | null的专栏](http://blog.csdn.net/google19890102/article/details/39781573)  
 * [数据挖掘 | CodeMeals](http://www.cnblogs.com/fengfenggirl/tag/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/)
+* [ACdreamers 的专栏](http://blog.csdn.net/ACdreamers/article/category/3055457)  
+* [Liam Q的专栏 专注于数据分析与处理](http://blog.csdn.net/qll125596718/article/category/909565/2)
+* [Bin的专栏  Machine Learning](http://www.cnblogs.com/xbinworld/tag/Machine%20Learning/)
+* [tornadomeet资料目录](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
 
-* [《Machine Learning is Fun!》](https://medium.com/code-poet/80ea3ec3c471)
-介绍:如果你还不知道什么是机器学习，或则是刚刚学习感觉到很枯燥乏味。那么推荐一读。这篇文章已经被翻译成中文,如果有兴趣可以移步http://blog.jobbole.com/67616/
 
-* [《Machine learning in 10 pictures》](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html)
 
-介绍:Deniz Yuret用10张漂亮的图来解释机器学习重要概念：1. Bias/Variance Tradeoff 2. Overfitting 3. Bayesian / Occam's razor 4. Feature combination 5. Irrelevant feature 6. Basis function 7. Discriminative / Generative 8. Loss function 9. Least squares 10. Sparsity.很清晰
-* [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
 
-介绍：机器学习最佳入门学习资料汇总是专为机器学习初学者推荐的优质学习资源，帮助初学者快速入门。而且这篇文章的介绍已经被翻译成[中文版](http://article.yeeyan.org/view/22139/410514)。如果你不怎么熟悉，那么我建议你先看一看中文的介绍。
-* [《“机器学习”是什么？》](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
 
-介绍:【“机器学习”是什么？】John Platt是微软研究院杰出科学家，17年来他一直在机器学习领域耕耘。近年来机器学习变得炙手可热，Platt和同事们遂决定开设[博客](http://blogs.technet.com/b/machinelearning/)，向公众介绍机器学习的研究进展。机器学习是什么，被应用在哪里？来看Platt的这篇[博文](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
-* [《Machine Learning Summer School》](http://mlss2014.com/)
-
-介绍：每天请一个大牛来讲座，主要涉及机器学习，大数据分析，并行计算以及人脑研究。https://www.youtube.com/user/smolix    （需翻墙）
-* [《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
-
-介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)，[机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 * [《Machine Learning Theory: An Introductory Primer》](http://www.oschina.net/translate/6-tips-for-writing-better-code)
 
 介绍：机器学习最基本的入门文章，适合零基础者
@@ -133,12 +136,6 @@
 
 介绍: 18 free eBooks on Machine Learning
 
-* [《机器学习公开课汇总》](http://blog.coursegraph.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E6%B1%87%E6%80%BB)
-
-介绍: 机器学习公开课汇总,虽然里面的有些课程已经归档过了，但是还有个别的信息没有。感谢课程图谱的小编
-* [《机器学习入门者学习指南》](http://www.guokr.com/post/512037/)
-
-介绍:作者是计算机研二(写文章的时候，现在是2015年了应该快要毕业了)，专业方向自然语言处理．这是一点他的经验之谈．对于入门的朋友或许会有帮助
 
 * [《A Tour of Machine Learning Algorithms》](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
@@ -150,31 +147,17 @@
 * [《Machine Learning Resources》](http://michal.io/machine-learning-resources/)
 
 介绍:这是一个机器学习资源库,虽然比较少.但蚊子再小也是肉.有突出部分.此外还有一个由[zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html).
+
 * [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
-
 介绍:机器学习中的重要数学概念.
+
 * [《Machine learning cheat sheet》](https://github.com/soulmachine/machine-learning-cheat-sheet)
-
 介绍:机器学习速查表.
-* [《An Introduction to Random Forests for Beginners》](http://info.salford-systems.com/an-introduction-to-random-forests-for-beginners)
 
-介绍:免费电子书"随机森林入门指南".
-* [《机器学习资料大汇总》](http://www.52ml.net/star)
 
-介绍:来自52ml的机器学习资料大汇总.
 * [《Essential Machine Learning Algorithms in a nutshell》](https://manish.wordpress.com/2015/10/02/essential-machine-learning-algorithms-in-a-nutshell/)
-
 介绍:机器学习基本算法简要入门.
-* [机器学习算法之旅](http://blog.jobbole.com/60809/)
-* [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
-* [tornadomeet资料目录](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
-* [mastering-machine-learning-scikit-learn中文版](https://muxuezi.github.io/posts/0-perface.html) 
-* [机器学习资料大汇总](http://www.kuqin.com/shuoit/20150923/348242.html)  
-* [机器学习常见算法分类汇总](http://blog.jobbole.com/77620/)  
-* [机器学习算法基础概念学习总结](http://blog.jobbole.com/74716/)  
-* [机器学习算法基础知识](http://www.36dsj.com/archives/8911)  
-* [数据挖掘18大算法实现以及其他相关经典DM算法](https://github.com/linyiqun/DataMiningAlgorithm)
-效果超乎解释的随机森林方法  http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208653419&idx=1&sn=1d0ccfc26c1fe8ce1245a0763e28b060&scene=0#rd   
+
 
 #### 2.2 其他杂项
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas]
@@ -186,19 +169,16 @@
 
 * [10 种机器学习算法的要点（附 Python 和 R 代码）](http://blog.jobbole.com/92021/)  
 * [网上又一位牛人的Machine Learning实验笔记]
-(http://blog.csdn.net/denghp83/article/details/8996662#0-tsina-1-56037-397232819ff9a47a7b7e80a40613cfe1)
-* [Bin的专栏  Machine Learning](http://www.cnblogs.com/xbinworld/tag/Machine%20Learning/)
-【Logistic回归 vs. 决策树 vs. SVM】《Logistic Regression Vs Decision Trees Vs SVM》by Lalit Sachan Part1:http://t.cn/RUueao2 Part2:http://t.cn/RUueaoA
+(http://blog.csdn.net/denghp83/article/details/8996662#0-tsina-1-56037-397232819ff9a47a7b7e80a40613cfe1)  
 
-http://blog.csdn.net/ACdreamers/article/category/3055457  
+【Logistic回归 vs. 决策树 vs. SVM】《Logistic Regression Vs Decision Trees Vs SVM》by Lalit Sachan 
+Part1:http://t.cn/RUueao2 Part2:http://t.cn/RUueaoA
 
-Liam Q的专栏
-专注于数据分析与处理](http://blog.csdn.net/qll125596718/article/category/909565/2)
 
 #### 2.3 数据降维
 PCA  机器学习实战-PCA主成分分析、降维 - y521263的专栏 - 博客频道 - CSDN.NET
 SVD
-* [Scikit-Learn实用案例](http://muxuezi.github.io/posts/1-premodel-workflow.html)
+
 [不平衡分类/SVM/随机森林/决策树实力指南](http://bigdata-madesimple.com/dealing-with-unbalanced-class-svm-random-forest-and-decision-tree-in-python/)  
 
 ## 3、特征工程 
@@ -228,15 +208,11 @@ SVD
 http://segmentfault.com/a/1190000003719712
 机器学习中的常见问题——几种梯度下降法 http://blog.csdn.net/google19890102/article/details/48766869   
 * [《8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset》](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
-
 介绍:应对非均衡数据集分类问题的八大策略.
 [利用Python进行数据分析--数据规整化：清理、转换、合并、重塑 ](http://blog.csdn.net/u013524655/article/details/41291665)  
 [ 利用Python进行数据分析--绘图和可视化 ](http://blog.csdn.net/u013524655/article/details/41291715)  
 http://blog.csdn.net/u013524655/article/category/2693289
 
-[你用 Python 做过什么有趣的数据挖掘/分析项目？ ](http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=205835343&idx=1&sn=0874f763cfe839902f686ece64182dfd#rd)  
-
-决策树算法介绍及应用  http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208653419&idx=2&sn=7a9bb3f7350ea43cf4144b5497679521&scene=0#rd   
 
 
 ## 4、集成学习(ensemble learning)算法
@@ -272,3 +248,4 @@ https://muxuezi.github.io/
 * [互联网公司机器学习职位面试考察点](https://www.zhihu.com/question/25565713/answer/31981961)
 * [码农翻墙去美帝——数学和机器学习准备](http://blog.sina.com.cn/s/blog_687bf5050102vawn.html)
 * [公司内部推荐系统架构图](https://www.processon.com/view/link/552e1789e4b0193bc0401a86)
+* [你用 Python 做过什么有趣的数据挖掘/分析项目？ ](http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=205835343&idx=1&sn=0874f763cfe839902f686ece64182dfd#rd)  
