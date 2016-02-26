@@ -6,3 +6,5 @@
 http://www.analyticsvidhya.com/blog/2015/09/random-forest-algorithm-multiple-challenges/  
 * [《An Introduction to Random Forests for Beginners》](http://info.salford-systems.com/an-introduction-to-random-forests-for-beginners)
 介绍:免费电子书"随机森林入门指南".
+
+随机森林入门攻略 http://mp.weixin.qq.com/s?__biz=MzA5NDQ3MDI4NA==&mid=209532025&idx=1&sn=90390e6faf1b03c786557234016fdee5#rd   

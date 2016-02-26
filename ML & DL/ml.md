@@ -40,22 +40,19 @@
 
 
 ## 2、机器学习
-#### 2.1 汇总性资料 
+#### 2.1 汇总性资料  
+* [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)    
 * [8步从Python白板到专家，从基础到深度学习](http://dataunion.org/15057.html)  
-* [机器学习算法之旅](http://blog.jobbole.com/60809/)
-* [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
 * [mastering-machine-learning-scikit-learn中文版](https://muxuezi.github.io/posts/0-perface.html) 
 * [机器学习资料大汇总](http://www.kuqin.com/shuoit/20150923/348242.html)  
 * [机器学习常见算法分类汇总](http://blog.jobbole.com/77620/)  
 * [机器学习算法基础概念学习总结](http://blog.jobbole.com/74716/)  
 * [机器学习算法基础知识](http://www.36dsj.com/archives/8911)  
-* [数据挖掘18大算法实现以及其他相关经典DM算法](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
 * [国外程序员整理的机器学习资源大全 -《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
 * [机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 * [《机器学习公开课汇总》](http://blog.coursegraph.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E6%B1%87%E6%80%BB)
 * [《机器学习入门者学习指南》](http://www.guokr.com/post/512037/)
-* [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
 * [《机器学习视频库》](http://work.caltech.edu/library/)
 * [《机器学习经典书籍》](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
 * [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
@@ -77,10 +74,6 @@
 * [leftnoteasy ](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)
 * [机器学习：学习资源](http://qianjiye.de/2014/11/machine-learning-resources/)
 
-
-
-.
-
 #### 2.2 其他杂项
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas]
 (http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
@@ -92,14 +85,6 @@
 * [10 种机器学习算法的要点（附 Python 和 R 代码）](http://blog.jobbole.com/92021/)  
 * [网上又一位牛人的Machine Learning实验笔记]
 (http://blog.csdn.net/denghp83/article/details/8996662#0-tsina-1-56037-397232819ff9a47a7b7e80a40613cfe1)  
-
-【Logistic回归 vs. 决策树 vs. SVM】《Logistic Regression Vs Decision Trees Vs SVM》by Lalit Sachan 
-Part1:http://t.cn/RUueao2 Part2:http://t.cn/RUueaoA
-
-
-#### 2.3 数据降维
-PCA  机器学习实战-PCA主成分分析、降维 - y521263的专栏 - 博客频道 - CSDN.NET  
-[不平衡分类/SVM/随机森林/决策树实力指南](http://bigdata-madesimple.com/dealing-with-unbalanced-class-svm-random-forest-and-decision-tree-in-python/)  
 
 ## 3、特征工程 
 * 《Selecting good features》特征工程系列文章  
@@ -124,18 +109,13 @@ PCA  机器学习实战-PCA主成分分析、降维 - y521263的专栏 - 博客�
 * [Techniques to improve the accuracy of your Predictive Models](http://pan.baidu.com/s/1mgKPzo0)
 * [Techniques to improve the accuracy of your Predictive Models.pdf](http://pan.baidu.com/s/1eQCokPs)
 * [introduction-ensemble-learning](http://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)  
-【应对非均衡数据集分类问题的八大策略】《8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset》by Jason Brownlee http://t.cn/RLe4MJc
-http://segmentfault.com/a/1190000003719712
-机器学习中的常见问题——几种梯度下降法 http://blog.csdn.net/google19890102/article/details/48766869   
+* [卡方检验原理及应用](http://segmentfault.com/a/1190000003719712)  
 * [《8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset》](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 介绍:应对非均衡数据集分类问题的八大策略.
-[利用Python进行数据分析--数据规整化：清理、转换、合并、重塑 ](http://blog.csdn.net/u013524655/article/details/41291665)  
-[ 利用Python进行数据分析--绘图和可视化 ](http://blog.csdn.net/u013524655/article/details/41291715)  
-http://blog.csdn.net/u013524655/article/category/2693289
-
 
 
 ## 4、集成学习(ensemble learning)算法
+
 [Implementing a Weighted Majority Rule Ensemble Classifier in Scikit-learn]
 (http://sebastianraschka.com/Articles/2014_ensemble_classifier.html)
 [【机器学习基础】混合和装袋](http://www.jianshu.com/p/037e1bad9fa8)  
@@ -143,8 +123,6 @@ http://blog.csdn.net/u013524655/article/category/2693289
 基于数据随机重抽样的分类器构建方法
 
    * 随机森林（Random Forest）[【机器学习基础】随机森林算法](http://www.jianshu.com/p/667c9ea6cf96)
-随机森林入门攻略 http://mp.weixin.qq.com/s?__biz=MzA5NDQ3MDI4NA==&mid=209532025&idx=1&sn=90390e6faf1b03c786557234016fdee5#rd   
-[Spark 随机森林算法原理、源码分析及案例实战](https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-random-forest/)   
   
 ### Boosting
    * 自适应提升树 AdaBoost  
@@ -152,10 +130,11 @@ http://blog.csdn.net/u013524655/article/category/2693289
      [【机器学习基础】梯度提升决策树](http://www.jianshu.com/p/819a21e1e8ef)  
 [Random Forest 与 GBDT 的异同](http://blog.csdn.net/wh137795233/article/details/47750151)
 
+
 ## 5、技术博客&网站
 * [算法组](http://suanfazu.com/)  
 * [火光摇曳](http://www.flickering.cn/)  
-https://muxuezi.github.io/
+
 
 ## 6、数据挖掘比赛
 * [kaggle](https://www.kaggle.com/)
