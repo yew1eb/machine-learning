@@ -143,6 +143,7 @@
 
 ## 7、其他
 * [常见面试之机器学习算法思想简单梳理](http://www.cnblogs.com/tornadomeet/p/3395593.html)
+* [如何准备机器学习工程师的面试？](https://www.zhihu.com/question/23259302)
 * [互联网公司机器学习职位面试考察点](https://www.zhihu.com/question/25565713/answer/31981961)
 * [码农翻墙去美帝——数学和机器学习准备](http://blog.sina.com.cn/s/blog_687bf5050102vawn.html)
 * [公司内部推荐系统架构图](https://www.processon.com/view/link/552e1789e4b0193bc0401a86)
