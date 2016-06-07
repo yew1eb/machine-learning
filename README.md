@@ -15,7 +15,7 @@
 | K Means             | [[dir]](https://github.com/yew1eb/machine-learning/tree/master/K-Means)|
 
 ## 学习资料
-* 学习资料整理Link:<https://github.com/yew1eb/machine-learning/tree/master/ML%20%26%20DL>
+* __学习资料整理__ Link:<https://github.com/yew1eb/machine-learning/tree/master/ML%20%26%20DL>
 * [《利用Python进行数据分析》](http://book.douban.com/subject/25779298/)
 * [Microsoft: DAT208x Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016)
 * [Microsoft: DAT204x Introduction to R](https://courses.edx.org/courses/course-v1:Microsoft+DAT204x+1T2016/)  
